@@ -1,0 +1,666 @@
+suburb,postcode,lat,lon,total_patient,population,age,AM,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+ABBOTSBURY,2176,-33.877538,150.86776799999998,18,4242,mid-age,49,1.0,Spa,Cosmetics Shop,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Field
+ABBOTSFORD,2046,-33.852469,151.129453,14,5366,mid-age,49,3.0,Pizza Place,Café,Thai Restaurant,Construction & Landscaping,Hobby Shop,Liquor Store,Burger Joint,Grocery Store,Italian Restaurant,Park
+ACACIA GARDENS,2763,-33.730077,150.906502,17,3786,adult,29,0.0,Fast Food Restaurant,Pizza Place,Snack Place,Gas Station,Pet Store,Sandwich Place,Shopping Mall,Grocery Store,Thai Restaurant,Gym
+AGNES BANKS,2753,-33.618877000000005,150.707372,5,919,mid-age,49,1.0,Rental Car Location,Yoga Studio,Eastern European Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+AIRDS,2560,-34.084468,150.829041,19,2939,young,9,0.0,Grocery Store,Pub,Gas Station,Shopping Mall,Yoga Studio,Fast Food Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant
+ALEXANDRIA,2015,-33.897571,151.19556699999998,11,8266,adult,29,3.0,Pub,Café,Bakery,Thai Restaurant,Italian Restaurant,Office,Park,Tennis Court,Breakfast Spot,Grocery Store
+ALFORDS POINT,2234,-33.993303000000004,151.024751,20,3093,mid-age,49,1.0,Playground,Flea Market,Shopping Mall,Burger Joint,Flower Shop,Food,Electronics Store,Event Service,Event Space,Falafel Restaurant
+ALLAMBIE HEIGHTS,2100,-33.765076,151.248864,11,7001,mid-age,49,3.0,Café,Bakery,Grocery Store,Liquor Store,Park,Fast Food Restaurant,Event Service,Event Space,Falafel Restaurant,Farm
+ALLAWAH,2218,-33.970017999999996,151.114517,12,5729,adult,29,0.0,Food Truck,Thai Restaurant,Pub,Yoga Studio,Field,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+AMBARVALE,2560,-34.080467,150.803644,19,7358,adult,29,1.0,Soccer Field,Trail,Bus Stop,Clothing Store,Park,Yoga Studio,Fast Food Restaurant,Electronics Store,Event Service,Event Space
+ANNANDALE,2038,-33.881434999999996,151.170681,4,9459,adult,29,3.0,Café,Park,Grocery Store,Garden Center,Playground,Asian Restaurant,Bar,Pizza Place,Snack Place,Italian Restaurant
+ANNANGROVE,2156,-33.657771999999994,150.94350500000002,3,1403,mid-age,49,1.0,Indian Restaurant,Racetrack,Yoga Studio,Field,Egyptian Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+ARCADIA,2159,-33.623101,151.052726,3,1373,mid-age,49,0.0,Art Gallery,Gym,Yoga Studio,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+ARNCLIFFE,2205,-33.936592,151.146805,8,10593,adult,29,1.0,Park,Paper / Office Supplies Store,Thai Restaurant,Bakery,Café,Grocery Store,Gym,Outlet Store,Lebanese Restaurant,Hotel
+ARNDELL PARK,2148,-33.787265999999995,150.871959,34,30,adult,29,1.0,Playground,Dog Run,Furniture / Home Store,Yoga Studio,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+ARTARMON,2064,-33.807664,151.189662,5,9527,adult,29,3.0,Café,Park,Ramen Restaurant,BBQ Joint,Sandwich Place,Japanese Restaurant,Thai Restaurant,Convenience Store,Plaza,Fish & Chips Shop
+ASHBURY,2193,-33.901897,151.11932,10,3343,mid-age,49,1.0,Playground,Seafood Restaurant,Racecourse,Market,Fast Food Restaurant,Egyptian Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant
+ASHCROFT,2168,-33.917587,150.899095,13,3584,adult,29,,,,,,,,,,,
+ASHFIELD,2131,-33.889497999999996,151.127444,13,23832,adult,29,0.0,Supermarket,Dumpling Restaurant,Electronics Store,Platform,Shanghai Restaurant,Café,Chinese Restaurant,Japanese Restaurant,Asian Restaurant,Restaurant
+ASQUITH,2077,-33.687484000000005,151.108685,22,3366,mid-age,49,0.0,Supermarket,Hobby Shop,Train Station,Gas Station,Fast Food Restaurant,Field,Electronics Store,Event Service,Event Space,Falafel Restaurant
+AUBURN,2144,-33.849321999999994,151.033421,6,37373,adult,29,0.0,Café,Grocery Store,Supermarket,Gym,Kebab Restaurant,Fast Food Restaurant,Turkish Restaurant,Pakistani Restaurant,Thai Restaurant,Dessert Shop
+AUSTRAL,2179,-33.933109,150.81203100000002,1,3033,senior+,69,0.0,Shopping Mall,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+AVALON BEACH,2107,-33.636325,151.33059599999999,6,9906,mid-age,49,3.0,Café,Tea Room,Grocery Store,French Restaurant,Restaurant,Beach,Sandwich Place,Bakery,Yoga Studio,Farm
+BADGERYS CREEK,2555,-33.883376,150.741351,0,233,adult,29,,,,,,,,,,,
+BALGOWLAH,2093,-33.794121000000004,151.26268000000002,12,7980,mid-age,49,3.0,Café,Japanese Restaurant,Bakery,Shopping Mall,Liquor Store,Indian Restaurant,Coffee Shop,Gym,Supermarket,Park
+BALGOWLAH HEIGHTS,2093,-33.800553,151.257401,12,3350,mid-age,49,1.0,Dog Run,Grocery Store,Restaurant,Trail,Park,Dumpling Restaurant,Egyptian Restaurant,Electronics Store,Event Service,Event Space
+BALMAIN,2041,-33.856497999999995,151.178009,9,10456,mid-age,49,3.0,Café,Pub,Sushi Restaurant,Thai Restaurant,Pizza Place,Indian Restaurant,Park,Bar,Tapas Restaurant,Italian Restaurant
+BALMAIN EAST,2041,-33.857833,151.190598,9,1934,mid-age,49,3.0,Café,Bowling Green,Italian Restaurant,Gastropub,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Field
+BANGOR,2234,-34.018876,151.030057,20,5575,mid-age,49,0.0,Burger Joint,Bakery,Pub,Shopping Mall,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+BANKSIA,2216,-33.945237,151.140161,13,3380,adult,29,0.0,Platform,Pub,Bistro,Sporting Goods Shop,Outdoor Supply Store,Gym,Fast Food Restaurant,Train Station,Arts & Crafts Store,Pastry Shop
+BANKSMEADOW,2019,-33.95742,151.206715,6,18,senior+,69,3.0,Café,Bakery,Golf Course,Sandwich Place,Park,Yoga Studio,Farmers Market,Event Service,Event Space,Falafel Restaurant
+BANKSTOWN,2200,-33.919539,151.034909,13,32116,adult,29,0.0,Vietnamese Restaurant,Café,Chinese Restaurant,Middle Eastern Restaurant,Convenience Store,Sports Bar,Steakhouse,Bakery,Bar,Buffet
+BANKSTOWN AERODROME,2200,-33.920032,150.995041,13,32116,adult,29,3.0,Miscellaneous Shop,Airport,Café,Australian Restaurant,Yoga Studio,Film Studio,Event Space,Falafel Restaurant,Farm,Farmers Market
+BARDEN RIDGE,2234,-34.032851,151.005396,20,4312,mid-age,49,2.0,Italian Restaurant,Park,Yoga Studio,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+BARDWELL PARK,2207,-33.93207,151.125594,10,2241,mid-age,49,3.0,Bar,Gym,Café,Train Station,Park,Yoga Studio,Egyptian Restaurant,Event Service,Event Space,Falafel Restaurant
+BARDWELL VALLEY,2207,-33.935083,151.13468600000002,10,2328,mid-age,49,2.0,Playground,Miscellaneous Shop,Park,Yoga Studio,Field,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+BASS HILL,2197,-33.900608,150.992888,4,9071,adult,29,0.0,Fast Food Restaurant,Supermarket,Grocery Store,Gym,Shopping Mall,Big Box Store,Department Store,Field,Event Service,Event Space
+BAULKHAM HILLS,2153,-33.758601,150.99288700000002,15,37045,mid-age,49,0.0,Café,Pizza Place,Supermarket,Food Court,Italian Restaurant,Bakery,Dumpling Restaurant,Donut Shop,Gym,Seafood Restaurant
+BAYVIEW,2104,-33.66445,151.298945,2,3624,senior+,69,2.0,Park,Boat or Ferry,Café,Dog Run,Yoga Studio,Filipino Restaurant,Event Space,Falafel Restaurant,Farm,Farmers Market
+BEACON HILL,2100,-33.752406,151.261272,11,7451,mid-age,49,0.0,Scenic Lookout,Home Service,Fast Food Restaurant,Yoga Studio,Field,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+BEACONSFIELD,2015,-33.911613,151.20189,11,978,adult,29,0.0,Coffee Shop,Italian Restaurant,Café,Sporting Goods Shop,Car Wash,Thai Restaurant,Liquor Store,Sandwich Place,Grocery Store,Furniture / Home Store
+BEAUMONT HILLS,2155,-33.703416,150.946875,25,9052,mid-age,49,2.0,Park,Yoga Studio,Eastern European Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+BEECROFT,2119,-33.749497999999996,151.064533,9,9392,mid-age,49,3.0,Café,Park,Liquor Store,Shopping Mall,Fast Food Restaurant,Chinese Restaurant,Supermarket,Italian Restaurant,Field,Event Space
+BELFIELD,2191,-33.902107,151.083553,5,6318,mid-age,49,3.0,Pizza Place,Café,BBQ Joint,Tennis Court,Middle Eastern Restaurant,Sports Club,Gas Station,Yoga Studio,Fast Food Restaurant,Event Space
+BELLA VISTA,2153,-33.737345,150.95501000000002,15,7823,mid-age,49,3.0,Café,Convenience Store,Gym,Coffee Shop,Farm,Thai Restaurant,Food Truck,Hobby Shop,Dumpling Restaurant,Egyptian Restaurant
+BELLEVUE HILL,2023,-33.887189,151.258935,35,10709,adult,29,2.0,Park,Café,Pizza Place,Italian Restaurant,Yoga Studio,Field,Event Service,Event Space,Falafel Restaurant,Farm
+BELMORE,2192,-33.916035,151.0875,5,12720,adult,29,3.0,Café,Lebanese Restaurant,Sports Club,Greek Restaurant,BBQ Joint,Gym / Fitness Center,Chinese Restaurant,Bakery,Food & Drink Shop,Fish Market
+BELROSE,2085,-33.739288,151.21143899999998,4,8781,senior+,69,0.0,Supermarket,Park,Café,Concert Hall,Restaurant,Coffee Shop,Shopping Mall,Gym,Australian Restaurant,Fast Food Restaurant
+BERALA,2141,-33.871904,151.031033,7,9026,adult,29,0.0,Korean Restaurant,Coffee Shop,Asian Restaurant,Train Station,Thai Restaurant,Supermarket,Yoga Studio,Fast Food Restaurant,Electronics Store,Event Service
+BERKSHIRE PARK,2765,-33.672237,150.79576,7,2138,adult,29,1.0,Pool,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+BEROWRA,2081,-33.623581,151.150117,2,4727,mid-age,49,0.0,Platform,Fast Food Restaurant,Coffee Shop,Soccer Field,Sandwich Place,Liquor Store,Chinese Restaurant,Train Station,Bus Stop,Park
+BEROWRA HEIGHTS,2082,-33.610968,151.136829,0,5272,mid-age,49,0.0,Pizza Place,Coffee Shop,Café,Grocery Store,Supermarket,Pub,Burger Joint,Thai Restaurant,Shopping Mall,Film Studio
+BEROWRA WATERS,2082,-33.601653000000006,151.11837,0,135,senior+,69,1.0,Seafood Restaurant,Boat or Ferry,Harbor / Marina,Yoga Studio,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+BERRILEE,2159,-33.61497,151.095573,3,236,mid-age,49,,,,,,,,,,,
+BEVERLEY PARK,2217,-33.975134999999995,151.13134499999998,10,2392,mid-age,49,1.0,Park,Football Stadium,Restaurant,Chinese Restaurant,Dim Sum Restaurant,Café,Sports Bar,Sporting Goods Shop,Fast Food Restaurant,Electronics Store
+BEVERLY HILLS,2209,-33.954218,151.07636399999998,12,10167,adult,29,,,,,,,,,,,
+BEXLEY,2207,-33.949135,151.12721000000002,10,19722,adult,29,0.0,Convenience Store,Greek Restaurant,Pizza Place,Grocery Store,Pub,Liquor Store,Yoga Studio,Fast Food Restaurant,Electronics Store,Event Service
+BEXLEY NORTH,2207,-33.938306,151.11418600000002,10,4096,mid-age,49,3.0,Café,Thai Restaurant,Japanese Restaurant,Pizza Place,Grocery Store,Pub,Egyptian Restaurant,Electronics Store,Event Service,Event Space
+BICKLEY VALE,2570,-34.070904999999996,150.666238,16,446,senior+,69,,,,,,,,,,,
+BIDWILL,2770,-33.73024,150.822765,12,4281,young,9,0.0,Convenience Store,Bar,Yoga Studio,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+BIRCHGROVE,2041,-33.853386,151.180609,9,3302,mid-age,49,3.0,Café,Pub,Bar,Sushi Restaurant,Dessert Shop,Tapas Restaurant,Tennis Court,Donut Shop,Frozen Yogurt Shop,Italian Restaurant
+BIRRONG,2143,-33.89022,151.022398,0,3109,adult,29,1.0,Women's Store,Grocery Store,Train Station,Mediterranean Restaurant,Yoga Studio,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm
+BLACKETT,2770,-33.738507,150.811206,12,3452,adult,29,1.0,Soccer Field,Gym Pool,Yoga Studio,Field,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+BLACKTOWN,2148,-33.770184,150.908501,34,47175,adult,29,0.0,Fast Food Restaurant,Supermarket,Department Store,Juice Bar,Plaza,Coffee Shop,Cuban Restaurant,Thai Restaurant,Food Court,Chinese Restaurant
+BLAIR ATHOL,2560,-34.063835,150.806007,19,2886,adult,29,0.0,Convenience Store,Supermarket,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+BLAIRMOUNT,2559,-34.049485,150.799611,0,422,adult,29,,,,,,,,,,,
+BLAKEHURST,2221,-33.988743,151.112314,2,6213,mid-age,49,1.0,Sporting Goods Shop,Dim Sum Restaurant,Park,Burger Joint,Yoga Studio,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm
+BLIGH PARK,2756,-33.63765,150.79458,12,6362,adult,29,1.0,Fishing Store,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+BONDI,2026,-33.893739000000004,151.262502,113,10043,adult,29,0.0,Park,Pizza Place,Bakery,Café,Grocery Store,Australian Restaurant,Coffee Shop,Thai Restaurant,Gas Station,Brazilian Restaurant
+BONDI BEACH,2026,-33.890541999999996,151.274856,113,11659,adult,29,3.0,Café,Italian Restaurant,Australian Restaurant,Bakery,Wine Bar,Restaurant,Pizza Place,Ice Cream Shop,Trail,Beach Bar
+BONDI JUNCTION,2022,-33.892324,151.24733,37,9464,adult,29,0.0,Café,Gym,Japanese Restaurant,Thai Restaurant,Noodle House,Clothing Store,Coffee Shop,Pub,Pizza Place,Vegetarian / Vegan Restaurant
+BONNET BAY,2226,-34.009518,151.054252,2,2266,mid-age,49,3.0,Convenience Store,Gym,Café,Deli / Bodega,Yoga Studio,Field,Event Service,Event Space,Falafel Restaurant,Farm
+BONNYRIGG,2177,-33.888801,150.886505,2,8670,adult,29,0.0,Park,Department Store,Food & Drink Shop,Gym / Fitness Center,Supermarket,Fast Food Restaurant,Café,Dessert Shop,Sandwich Place,Pizza Place
+BONNYRIGG HEIGHTS,2177,-33.892666999999996,150.868448,2,7310,mid-age,49,2.0,Playground,Park,Yoga Studio,Field,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+BOSSLEY PARK,2176,-33.86626,150.88415,18,14594,mid-age,49,0.0,Bar,Pizza Place,Gym,Buffet,Park,Italian Restaurant,Field,Electronics Store,Event Service,Event Space
+BOTANY,2019,-33.94477,151.196528,6,10823,adult,29,3.0,Café,Pub,Pizza Place,Grocery Store,Gym,Falafel Restaurant,Asian Restaurant,Seafood Restaurant,Park,Fried Chicken Joint
+BOW BOWING,2566,-34.015342,150.83682,4,1590,mid-age,49,1.0,Tennis Court,Yoga Studio,Food Stand,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+BOX HILL,2765,-33.639115000000004,150.904697,7,905,senior+,69,1.0,Restaurant,Yoga Studio,Eastern European Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+BRADBURY,2560,-34.086006,150.81401599999998,19,8798,adult,29,0.0,Supermarket,Chinese Restaurant,Pizza Place,Shopping Mall,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+BREAKFAST POINT,2137,-33.841583,151.107502,10,4208,adult,29,3.0,Café,Park,Spa,Boat or Ferry,Grocery Store,Pub,Yoga Studio,Event Service,Event Space,Falafel Restaurant
+BRINGELLY,2556,-33.945707,150.725207,0,2511,mid-age,49,,,,,,,,,,,
+BRONTE,2024,-33.902328000000004,151.263838,17,6718,adult,29,3.0,Café,Juice Bar,Beach,Park,Bakery,Breakfast Spot,Convenience Store,Australian Restaurant,Indian Restaurant,Burger Joint
+BROOKLYN,2083,-33.548006,151.22519,0,715,mid-age,49,1.0,Platform,Seafood Restaurant,Harbor / Marina,Bookstore,Boat or Ferry,Bay,Café,Pub,Train Station,Event Service
+BROOKVALE,2100,-33.766628999999995,151.273824,11,3176,adult,29,0.0,Brewery,Yoga Studio,Liquor Store,Gym,Café,Bakery,Pizza Place,Flower Shop,Flea Market,Event Service
+BUNDEENA,2230,-34.085064,151.151259,25,1918,mid-age,49,3.0,Café,Beach,Grocery Store,Pier,Pub,Yoga Studio,Fast Food Restaurant,Electronics Store,Event Service,Event Space
+BURRANEER,2230,-34.065063,151.137171,25,3590,mid-age,49,1.0,Harbor / Marina,German Restaurant,Yoga Studio,Eastern European Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+BURWOOD,2134,-33.877423,151.10368200000002,5,16011,adult,29,0.0,Café,Chinese Restaurant,Noodle House,Supermarket,Coffee Shop,Juice Bar,Fast Food Restaurant,Sandwich Place,Department Store,Bakery
+BURWOOD HEIGHTS,2136,-33.888328,151.10341200000002,0,989,adult,29,1.0,Thai Restaurant,Burger Joint,Yoga Studio,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+BUSBY,2168,-33.910896,150.875155,13,4306,adult,29,1.0,Asian Restaurant,Bus Stop,Bus Station,Yoga Studio,Electronics Store,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+CABARITA,2137,-33.849081,151.113765,10,1973,senior+,69,2.0,Park,Beach,Yoga Studio,Egyptian Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+CABRAMATTA,2166,-33.895070000000004,150.935889,4,21803,adult,29,0.0,Vietnamese Restaurant,Chinese Restaurant,Bubble Tea Shop,Café,Thai Restaurant,Fast Food Restaurant,Bakery,Sushi Restaurant,Supermarket,Noodle House
+CABRAMATTA WEST,2166,-33.899136,150.91751399999998,4,7237,mid-age,49,0.0,Convenience Store,Golf Course,Pizza Place,Fast Food Restaurant,Yoga Studio,Field,Electronics Store,Event Service,Event Space,Falafel Restaurant
+CAMBRIDGE GARDENS,2747,-33.735558000000005,150.72171200000003,50,2029,adult,29,0.0,Baseball Field,Fast Food Restaurant,Yoga Studio,Food Truck,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Field
+CAMBRIDGE PARK,2747,-33.75152,150.725439,50,6716,adult,29,,,,,,,,,,,
+CAMDEN,2570,-34.054598999999996,150.69567800000002,16,3221,senior+,69,3.0,Café,Supermarket,Park,Australian Restaurant,Fast Food Restaurant,Thai Restaurant,Pizza Place,Fishing Store,Fish Market,Electronics Store
+CAMDEN SOUTH,2570,-34.08748,150.695074,16,4524,adult,29,0.0,Pub,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+CAMELLIA,2142,-33.816872,151.022191,7,2637,adult,29,0.0,Pizza Place,Bowling Green,Café,Sandwich Place,American Restaurant,Arcade,Gas Station,Train Station,Supermarket,Fast Food Restaurant
+CAMMERAY,2062,-33.821953,151.21043,8,7017,adult,29,3.0,Café,Thai Restaurant,Japanese Restaurant,Breakfast Spot,Fruit & Vegetable Store,Bus Stop,Sports Bar,Butcher,Fast Food Restaurant,Bar
+CAMPBELLTOWN,2560,-34.067440999999995,150.812522,19,12561,adult,29,0.0,Fast Food Restaurant,Movie Theater,Supermarket,Juice Bar,Chinese Restaurant,Grocery Store,Gym,Asian Restaurant,Big Box Store,Pub
+CAMPERDOWN,2050,-33.888659999999994,151.177188,5,10352,adult,29,3.0,Café,Convenience Store,Gym,Thai Restaurant,Pub,Motorcycle Shop,Liquor Store,Sushi Restaurant,Gastropub,Restaurant
+CAMPSIE,2194,-33.914373,151.103465,4,24539,adult,29,0.0,Gym,Bar,Fast Food Restaurant,Chinese Restaurant,Malay Restaurant,Grocery Store,Korean Restaurant,Fried Chicken Joint,Department Store,Vietnamese Restaurant
+CANADA BAY,2046,-33.863194,151.116398,14,1255,mid-age,49,1.0,Golf Course,Sports Club,Coffee Shop,Athletics & Sports,Yoga Studio,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm
+CANLEY HEIGHTS,2166,-33.883633,150.923895,4,10971,mid-age,49,0.0,Vietnamese Restaurant,Café,Japanese Restaurant,Gym,Bar,Grocery Store,Vegetarian / Vegan Restaurant,Dessert Shop,Tapas Restaurant,Korean Restaurant
+CANLEY VALE,2166,-33.887291,150.943275,4,10214,adult,29,0.0,Chinese Restaurant,Vietnamese Restaurant,Platform,Café,BBQ Joint,Dessert Shop,Bar,Restaurant,Gym / Fitness Center,Pub
+CANOELANDS,2157,-33.508714000000005,151.061148,0,179,mid-age,49,1.0,Farm,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farmers Market,Fast Food Restaurant,Field
+CANTERBURY,2193,-33.910848,151.12114499999998,10,7240,adult,29,0.0,Supermarket,Platform,Bike Trail,Camera Store,Korean Restaurant,Liquor Store,Japanese Restaurant,Train Station,Park,Bakery
+CARINGBAH,2229,-34.04316,151.123102,15,11672,adult,29,0.0,Coffee Shop,Pizza Place,Liquor Store,Gym,Pub,Fast Food Restaurant,Supermarket,Pool,Café,Brazilian Restaurant
+CARLINGFORD,2118,-33.782959000000005,151.047707,9,24401,mid-age,49,0.0,Chinese Restaurant,Convenience Store,Pizza Place,Music Store,Train Station,Italian Restaurant,Yoga Studio,Electronics Store,Event Service,Event Space
+CARLTON,2218,-33.968523,151.124528,12,10731,adult,29,1.0,Platform,Antique Shop,Seafood Restaurant,Japanese Restaurant,Dessert Shop,Pet Store,Bar,Fish Market,Fishing Store,Electronics Store
+CARRAMAR,2163,-33.884558,150.961884,7,3547,adult,29,2.0,Train Station,Park,Yoga Studio,Fast Food Restaurant,Egyptian Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+CARSS PARK,2221,-33.986556,151.11904099999998,2,1259,mid-age,49,3.0,Gym / Fitness Center,Café,Fish & Chips Shop,Park,Yoga Studio,Fast Food Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant
+CARTWRIGHT,2168,-33.926577,150.890356,13,2386,mid-age,49,1.0,Playground,Cricket Ground,Paper / Office Supplies Store,Bus Station,Fast Food Restaurant,Yoga Studio,Field,Event Service,Event Space,Falafel Restaurant
+CASTLE COVE,2069,-33.784165,151.199948,6,2552,mid-age,49,3.0,Café,Thai Restaurant,Gym,Sandwich Place,Pet Store,Clothing Store,Bakery,Farmers Market,Electronics Store,Event Service
+CASTLE HILL,2154,-33.732307,151.005616,4,39610,mid-age,49,0.0,Fast Food Restaurant,Café,Department Store,Food Court,Movie Theater,Shopping Mall,Music Store,Dumpling Restaurant,Juice Bar,BBQ Joint
+CASTLECRAG,2068,-33.802403000000005,151.21264299999999,15,2944,mid-age,49,3.0,Café,Eastern European Restaurant,Bakery,Grocery Store,Supermarket,Park,Thai Restaurant,Deli / Bodega,Fishing Store,Farm
+CASTLEREAGH,2749,-33.668796,150.67655,10,1164,mid-age,49,,,,,,,,,,,
+CASULA,2170,-33.94735,150.907753,22,15667,adult,29,1.0,Italian Restaurant,Train Station,Dessert Shop,Park,Yoga Studio,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+CATHERINE FIELD,2557,-33.993545000000005,150.774858,5,1669,mid-age,49,,,,,,,,,,,
+CATTAI,2756,-33.555841,150.909515,12,801,mid-age,49,1.0,Dry Cleaner,Yoga Studio,Eastern European Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+CAWDOR,2570,-34.108691,150.671985,16,432,mid-age,49,,,,,,,,,,,
+CECIL HILLS,2171,-33.883696,150.853171,12,7021,mid-age,49,,,,,,,,,,,
+CECIL PARK,2178,-33.87478,150.838225,2,769,mid-age,49,,,,,,,,,,,
+CHATSWOOD,2067,-33.795617,151.185329,2,24900,adult,29,0.0,Café,Chinese Restaurant,Ice Cream Shop,Food Court,Coffee Shop,Japanese Restaurant,Shopping Mall,Thai Restaurant,Gym,Sushi Restaurant
+CHATSWOOD WEST,2067,-33.796332,151.16714199999998,2,1492,mid-age,49,2.0,Park,Sports Club,Bus Stop,Arcade,Bus Station,Yoga Studio,Field,Event Space,Falafel Restaurant,Farm
+CHELTENHAM,2119,-33.76169,151.079364,9,2249,mid-age,49,2.0,Herbs & Spices Store,Park,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+CHERRYBROOK,2126,-33.722019,151.041806,6,18764,mid-age,49,3.0,Café,Supermarket,Restaurant,Sandwich Place,Grocery Store,Shopping Mall,Liquor Store,Noodle House,Farm,Electronics Store
+CHESTER HILL,2162,-33.883157000000004,151.00118500000002,5,12823,adult,29,0.0,Lebanese Restaurant,Fast Food Restaurant,Coffee Shop,Sushi Restaurant,Train Station,Dessert Shop,Thai Restaurant,Supermarket,Electronics Store,Event Service
+CHIFLEY,2036,-33.976546,151.240248,12,3225,mid-age,49,1.0,Playground,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+CHIPPENDALE,2008,-33.886844,151.20171499999998,4,8615,adult,29,3.0,Café,Coffee Shop,Bar,Bakery,Hotel,Ice Cream Shop,Wine Bar,Juice Bar,Cocktail Bar,Bubble Tea Shop
+CHIPPING NORTON,2170,-33.916829,150.96166200000002,22,8988,adult,29,0.0,Supermarket,Italian Restaurant,Coffee Shop,Shopping Mall,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+CHISWICK,2046,-33.851437,151.135954,14,2927,adult,29,1.0,Playground,Café,Soccer Field,Scenic Lookout,Harbor / Marina,Fast Food Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant
+CHULLORA,2190,-33.892441,151.05589799999998,3,23212,young,9,0.0,Discount Store,Pizza Place,Business Service,Pharmacy,Coffee Shop,Shopping Mall,Fast Food Restaurant,Supermarket,Yoga Studio,Event Service
+CHURCH POINT,2105,-33.644873,151.284352,0,983,senior+,69,3.0,Pier,Boat or Ferry,Café,Yoga Studio,Film Studio,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+CLAREMONT MEADOWS,2747,-33.770438,150.752791,50,4782,adult,29,0.0,Fast Food Restaurant,Grocery Store,Park,Shopping Mall,Yoga Studio,Egyptian Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant
+CLARENDON,2756,-33.614736,150.78198,12,110,mid-age,49,,,,,,,,,,,
+CLAREVILLE,2107,-33.634904999999996,151.313321,6,753,senior+,69,1.0,Surf Spot,Australian Restaurant,Beach,Garden Center,Yoga Studio,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+CLAYMORE,2559,-34.045524,150.810024,0,2651,young,9,0.0,Shopping Mall,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+CLEMTON PARK,2206,-33.925357,151.103282,6,1655,senior+,69,3.0,Café,Park,Shopping Plaza,Supermarket,Yoga Studio,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+CLONTARF,2093,-33.808238,151.25509499999998,12,1742,mid-age,49,3.0,Café,Surf Spot,Boat Rental,Beach,Yoga Studio,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Field
+CLOVELLY,2031,-33.912639,151.262021,28,4752,adult,29,3.0,Café,Trail,Hotel,Massage Studio,Bakery,Thai Restaurant,Beach,Supermarket,Coffee Shop,Bus Stop
+CLYDE,2142,-33.832322,151.01941399999998,7,3,adult,29,0.0,Platform,Convenience Store,Gym,Train Station,Racetrack,Fast Food Restaurant,Egyptian Restaurant,Electronics Store,Event Service,Event Space
+COASTERS RETREAT,2108,-33.6048,151.29883,1,43,senior+,69,1.0,Boat or Ferry,Trail,Bay,Beach,Yoga Studio,Film Studio,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+COBBITTY,2570,-34.015874,150.69102900000001,16,2062,mid-age,49,1.0,Campground,Restaurant,Yoga Studio,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+COLEBEE,2761,-33.730647,150.86604599999998,15,1928,adult,29,1.0,Bike Trail,Yoga Studio,Film Studio,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Field
+COLLAROY,2097,-33.740969,151.303133,13,7860,adult,29,1.0,Beach,Furniture / Home Store,Coffee Shop,Trail,Sports Club,Golf Course,Pie Shop,Fishing Store,Farmers Market,Electronics Store
+COLYTON,2760,-33.776657,150.79343300000002,11,8445,adult,29,0.0,Convenience Store,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Field
+COMO,2226,-34.004186,151.068288,2,3984,mid-age,49,1.0,Dog Run,Dance Studio,Train Station,Yoga Studio,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+CONCORD,2137,-33.857857,151.103502,10,14531,mid-age,49,3.0,Café,Thai Restaurant,Italian Restaurant,Fast Food Restaurant,Supermarket,Paper / Office Supplies Store,Dessert Shop,Sports Bar,Seafood Restaurant,Ice Cream Shop
+CONCORD WEST,2138,-33.848040999999995,151.087326,4,5910,mid-age,49,3.0,Café,Platform,Fried Chicken Joint,Paintball Field,Train Station,Chinese Restaurant,Pub,Fast Food Restaurant,Film Studio,Falafel Restaurant
+CONDELL PARK,2200,-33.922034000000004,151.011619,13,11564,adult,29,0.0,Grocery Store,Pizza Place,Seafood Restaurant,Liquor Store,Yoga Studio,Field,Event Service,Event Space,Falafel Restaurant,Farm
+CONNELLS POINT,2221,-33.991871,151.089495,2,2816,mid-age,49,2.0,Boat or Ferry,Bus Stop,Park,Yoga Studio,Filipino Restaurant,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+COOGEE,2034,-33.920491,151.254401,9,15219,adult,29,3.0,Café,Hotel,Bar,Park,Burger Joint,French Restaurant,Italian Restaurant,Fish & Chips Shop,Gym / Fitness Center,Beach
+CORNWALLIS,2756,-33.592375,150.81221599999998,12,51,mid-age,49,,,,,,,,,,,
+COTTAGE POINT,2084,-33.619578000000004,151.203831,3,105,senior+,69,3.0,Café,Neighborhood,Yoga Studio,Costume Shop,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+COWAN,2081,-33.589490999999995,151.17101499999998,2,647,mid-age,49,1.0,Trail,Train Station,Scenic Lookout,Yoga Studio,Fast Food Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+CRANEBROOK,2749,-33.71431,150.70998600000001,10,15758,adult,29,1.0,Market,Yoga Studio,Food Truck,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Field
+CREMORNE,2090,-33.828131,151.230233,17,11229,adult,29,0.0,Café,Pizza Place,Japanese Restaurant,Fast Food Restaurant,Indian Restaurant,Thai Restaurant,Korean Restaurant,Sushi Restaurant,Grocery Store,Liquor Store
+CREMORNE POINT,2090,-33.84447,151.228231,17,2409,mid-age,49,1.0,Pier,Scenic Lookout,Convenience Store,Hotel,Pool,Coffee Shop,Nature Preserve,Park,Harbor / Marina,Farmers Market
+CROMER,2099,-33.740353000000006,151.278523,20,7584,mid-age,49,0.0,Music Venue,Convenience Store,Lighting Store,Coffee Shop,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+CRONULLA,2230,-34.051972,151.153662,25,18083,adult,29,3.0,Café,Bar,Ice Cream Shop,Thai Restaurant,Tapas Restaurant,Fast Food Restaurant,Beach,Grocery Store,Seafood Restaurant,Mexican Restaurant
+CROWS NEST,2065,-33.82609,151.19919199999998,22,4802,adult,29,3.0,Café,Japanese Restaurant,Vietnamese Restaurant,Coffee Shop,Thai Restaurant,Chinese Restaurant,Bar,Supermarket,Indian Restaurant,Italian Restaurant
+CROYDON,2132,-33.883163,151.114771,3,10608,mid-age,49,3.0,Café,Pizza Place,Japanese Restaurant,Thai Restaurant,Women's Store,Bakery,Pool,Italian Restaurant,Indian Restaurant,Farmers Market
+CROYDON PARK,2133,-33.895299,151.10858100000002,0,11017,mid-age,49,0.0,Park,Convenience Store,Asian Restaurant,Pub,Chinese Restaurant,Sandwich Place,Fast Food Restaurant,Mediterranean Restaurant,Lebanese Restaurant,Thai Restaurant
+CUMBERLAND REACH,2756,-33.455858,150.896276,12,182,mid-age,49,,,,,,,,,,,
+CURL CURL,2096,-33.768937,151.294035,14,2419,mid-age,49,2.0,Park,Surf Spot,Dog Run,Beach,Filipino Restaurant,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+CURRANS HILL,2567,-34.045179,150.764007,19,5291,adult,29,1.0,Thrift / Vintage Store,Italian Restaurant,Grocery Store,Egyptian Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+CURRAWONG BEACH,2108,-33.597338,151.29836699999998,1,40,senior+,69,4.0,Beach,Yoga Studio,Food Truck,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Field
+DACEYVILLE,2032,-33.928043,151.22513,7,1204,senior+,69,1.0,Golf Course,Thai Restaurant,Grocery Store,Park,Malay Restaurant,Egyptian Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant
+DANGAR ISLAND,2083,-33.539357,151.24176200000002,0,310,mid-age,49,3.0,Event Service,Café,Harbor / Marina,Gastropub,Yoga Studio,Egyptian Restaurant,Event Space,Falafel Restaurant,Farm,Farmers Market
+DARLING POINT,2027,-33.873808000000004,151.236683,7,4192,senior+,69,2.0,Park,Italian Restaurant,Café,Harbor / Marina,Eastern European Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+DARLINGHURST,2010,-33.879825,151.21956,30,11322,adult,29,3.0,Café,Italian Restaurant,Bar,Japanese Restaurant,Pub,Pizza Place,Burger Joint,Ice Cream Shop,Indian Restaurant,Theater
+DARLINGTON,2008,-33.891348,151.191243,4,3092,adult,29,3.0,Café,Thai Restaurant,Performing Arts Venue,Pub,Pizza Place,College Rec Center,Japanese Restaurant,Italian Restaurant,Turkish Restaurant,Coffee Shop
+DARLINGTON,2330,-32.558283,151.159556,3,374,adult,29,3.0,Café,Thai Restaurant,Performing Arts Venue,Pub,Pizza Place,College Rec Center,Japanese Restaurant,Italian Restaurant,Turkish Restaurant,Coffee Shop
+DAVIDSON,2085,-33.738731,151.194197,4,2841,mid-age,49,1.0,Trail,Furniture / Home Store,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+DAWES POINT,2000,-33.855601,151.20821999999998,18,359,mid-age,49,3.0,Café,Australian Restaurant,Boat or Ferry,Hotel,Japanese Restaurant,Harbor / Marina,Pub,Scenic Lookout,Brewery,Hotel Bar
+DEAN PARK,2761,-33.73616,150.860027,15,3226,adult,29,0.0,Hotel Bar,Convenience Store,Dance Studio,Market,Burger Joint,Chinese Restaurant,Filipino Restaurant,Event Space,Falafel Restaurant,Farm
+DEE WHY,2099,-33.753451,151.28554,20,21518,adult,29,0.0,Supermarket,Pizza Place,Shopping Mall,Fried Chicken Joint,Japanese Restaurant,Fast Food Restaurant,Grocery Store,Pub,Coffee Shop,Middle Eastern Restaurant
+DENHAM COURT,2565,-33.990080999999996,150.844653,3,1982,adult,29,,,,,,,,,,,
+DENISTONE,2114,-33.799440999999995,151.07959,12,3750,mid-age,49,1.0,Playground,Film Studio,Australian Restaurant,Health Food Store,Shoe Store,Flea Market,Fishing Store,Electronics Store,Event Service,Event Space
+DENISTONE EAST,2112,-33.797177000000005,151.097546,11,2246,mid-age,49,3.0,Café,Scenic Lookout,Deli / Bodega,Farmers Market,Yoga Studio,Filipino Restaurant,Event Space,Falafel Restaurant,Farm,Fast Food Restaurant
+DENISTONE WEST,2114,-33.802382,151.06608500000002,12,935,mid-age,49,3.0,Italian Restaurant,Motel,Golf Course,Café,Pet Store,Chinese Restaurant,Yoga Studio,Event Service,Event Space,Falafel Restaurant
+DHARRUK,2770,-33.743232,150.816642,12,2765,adult,29,,,,,,,,,,,
+DOLANS BAY,2229,-34.05968,151.126746,15,602,mid-age,49,1.0,Boat or Ferry,Home Service,Sports Club,Harbor / Marina,Yoga Studio,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm
+DOLLS POINT,2219,-33.993495,151.146801,7,1658,mid-age,49,3.0,Park,Café,Cupcake Shop,Sports Bar,Indian Restaurant,Beach,Yoga Studio,Falafel Restaurant,Farm,Farmers Market
+DOONSIDE,2767,-33.765071,150.86928999999998,11,13461,adult,29,0.0,BBQ Joint,Platform,Pizza Place,Grocery Store,Restaurant,Fast Food Restaurant,Egyptian Restaurant,Electronics Store,Event Service,Event Space
+DOUBLE BAY,2028,-33.879059999999996,151.24309499999998,3,4636,adult,29,3.0,Café,Liquor Store,Japanese Restaurant,Thai Restaurant,Cocktail Bar,Bar,Supermarket,Bakery,Malay Restaurant,Italian Restaurant
+DOVER HEIGHTS,2030,-33.874404999999996,151.280416,19,3799,mid-age,49,1.0,Playground,Boat or Ferry,Coffee Shop,Park,Field,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+DRUMMOYNE,2047,-33.851056,151.154542,3,11941,adult,29,3.0,Café,Pub,Market,Convenience Store,Cricket Ground,Bakery,Vietnamese Restaurant,Sushi Restaurant,Sandwich Place,Grocery Store
+DUFFYS FOREST,2084,-33.676775,151.199879,3,474,mid-age,49,1.0,Stadium,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+DULWICH HILL,2203,-33.904689000000005,151.138774,4,13712,adult,29,3.0,Café,Bakery,Plaza,Grocery Store,Park,Coffee Shop,Pub,Diner,Bus Stop,Mediterranean Restaurant
+DUNDAS,2117,-33.799405,151.044189,6,4729,adult,29,1.0,Garden,Shopping Plaza,Grocery Store,Bus Station,Library,Fishing Store,Fish Market,Electronics Store,Food,Event Service
+DUNDAS VALLEY,2117,-33.787240000000004,151.06118500000002,6,5402,adult,29,1.0,Burger Joint,Garden Center,Thai Restaurant,Dessert Shop,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Field
+DURAL,2158,-33.681875,151.028435,3,7560,mid-age,49,1.0,Italian Restaurant,Grocery Store,Gym / Fitness Center,Scenic Lookout,Garden,Eastern European Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant
+EAGLE VALE,2558,-34.037882,150.814153,5,5794,adult,29,1.0,Pool,Soccer Field,Business Service,Yoga Studio,Field,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+EARLWOOD,2206,-33.92651,151.12648000000002,6,17744,mid-age,49,3.0,Café,Pizza Place,Fast Food Restaurant,Supermarket,Park,Gym,Thai Restaurant,Fish Market,Farm,Food
+EAST HILLS,2213,-33.963359000000004,150.986695,6,3205,mid-age,49,1.0,Platform,Train Station,Park,Yoga Studio,Field,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+EAST KILLARA,2071,-33.753498,151.170003,4,2979,mid-age,49,2.0,Park,Trail,Yoga Studio,Fast Food Restaurant,Egyptian Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+EAST KURRAJONG,2758,-33.514480999999996,150.764601,4,2202,mid-age,49,,,,,,,,,,,
+EAST LINDFIELD,2070,-33.766415,151.186095,10,3731,mid-age,49,3.0,Grocery Store,Food & Drink Shop,Café,Shopping Plaza,Field,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+EAST RYDE,2113,-33.813769,151.140289,22,2440,mid-age,49,1.0,Playground,Bakery,Trail,Scenic Lookout,Yoga Studio,Field,Event Service,Event Space,Falafel Restaurant,Farm
+EASTERN CREEK,2766,-33.803114,150.852192,7,824,adult,29,1.0,Asian Restaurant,Yoga Studio,Egyptian Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Field
+EASTGARDENS,2036,-33.946042999999996,151.223301,12,858,senior+,69,0.0,Coffee Shop,Supermarket,Department Store,Fast Food Restaurant,Café,Food Court,Bus Stop,Sushi Restaurant,Electronics Store,Thai Restaurant
+EASTLAKES,2018,-33.925133,151.213199,11,6922,adult,29,0.0,Supermarket,Food & Drink Shop,Electronics Store,Grocery Store,Shopping Mall,Garden Center,Park,Fast Food Restaurant,Event Service,Event Space
+EASTWOOD,2122,-33.789986,151.08091399999998,25,17852,adult,29,0.0,Chinese Restaurant,Korean Restaurant,Vietnamese Restaurant,Japanese Restaurant,Café,Grocery Store,Pub,Dessert Shop,BBQ Joint,Frozen Yogurt Shop
+EBENEZER,2756,-33.52466,150.881372,12,984,mid-age,49,,,,,,,,,,,
+EDENSOR PARK,2176,-33.877057,150.875292,18,9764,mid-age,49,0.0,Supermarket,Athletics & Sports,Deli / Bodega,Shopping Mall,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+EDGECLIFF,2027,-33.878586,151.235106,7,2576,adult,29,3.0,Café,Supermarket,Sandwich Place,Park,Yoga Studio,Train Station,Bakery,Liquor Store,Gym,Indian Restaurant
+ELANORA HEIGHTS,2101,-33.695015000000005,151.280156,9,4353,mid-age,49,0.0,Spa,Pizza Place,Café,Grocery Store,Gym,Shopping Mall,Fast Food Restaurant,Electronics Store,Event Service,Event Space
+ELDERSLIE,2335,-32.591783,151.33250900000002,1,112,mid-age,49,1.0,Deli / Bodega,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+ELDERSLIE,2570,-34.059038,150.71142700000001,16,6020,adult,29,1.0,Deli / Bodega,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+ELIZABETH BAY,2011,-33.872828999999996,151.22659299999998,30,5218,adult,29,3.0,Café,Hotel,Italian Restaurant,Australian Restaurant,Japanese Restaurant,Coffee Shop,Thai Restaurant,Supermarket,Sushi Restaurant,Pizza Place
+ELLIS LANE,2570,-34.040061,150.672006,16,837,mid-age,49,1.0,Construction & Landscaping,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+ELVINA BAY,2105,-33.642011,151.27610900000002,0,79,mid-age,49,4.0,Beach,Yoga Studio,Food Truck,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Field
+EMERTON,2770,-33.742855,150.80826299999998,12,2251,adult,29,0.0,Shopping Mall,Fast Food Restaurant,Pizza Place,Grocery Store,Fried Chicken Joint,Gym / Fitness Center,Fruit & Vegetable Store,Gym Pool,Yoga Studio,Farm
+EMU HEIGHTS,2750,-33.735636,150.650321,27,3282,mid-age,49,1.0,Playground,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+EMU PLAINS,2750,-33.754096999999994,150.653269,27,8411,senior+,69,0.0,Bar,Gym,Noodle House,Liquor Store,Yoga Studio,Fast Food Restaurant,Event Service,Event Space,Falafel Restaurant,Farm
+ENFIELD,2136,-33.886854,151.092425,0,2825,adult,29,0.0,Lebanese Restaurant,Pizza Place,Pool,Electronics Store,Fish & Chips Shop,Café,Pet Store,Gas Station,Liquor Store,Grocery Store
+ENGADINE,2233,-34.065715999999995,151.01266299999997,13,17373,mid-age,49,3.0,Café,Fast Food Restaurant,Coffee Shop,Discount Store,Grocery Store,Sandwich Place,Sushi Restaurant,Video Store,Shopping Mall,Bowling Alley
+ENGLORIE PARK,2560,-34.082052000000004,150.795131,19,417,adult,29,2.0,Park,Yoga Studio,Eastern European Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+ENMORE,2042,-33.899361999999996,151.171098,9,3886,adult,29,0.0,Pizza Place,Café,Bar,Vietnamese Restaurant,Pub,Turkish Restaurant,Italian Restaurant,Pakistani Restaurant,Ice Cream Shop,Yoga Studio
+ENMORE,2350,-30.721541,151.731619,4,51,senior+,69,0.0,Pizza Place,Café,Bar,Vietnamese Restaurant,Pub,Turkish Restaurant,Italian Restaurant,Pakistani Restaurant,Ice Cream Shop,Yoga Studio
+ENMORE,2042,-30.721541,151.731619,1,3880,adult,29,0.0,Pizza Place,Café,Bar,Vietnamese Restaurant,Pub,Turkish Restaurant,Italian Restaurant,Pakistani Restaurant,Ice Cream Shop,Yoga Studio
+EPPING,2121,-33.772549,151.08236499999998,4,23692,adult,29,0.0,Thai Restaurant,Pizza Place,Vietnamese Restaurant,Metro Station,Pharmacy,Train Station,Korean Restaurant,Fried Chicken Joint,Malay Restaurant,Japanese Restaurant
+ERMINGTON,2115,-33.814144,151.054495,4,10735,adult,29,0.0,Food & Drink Shop,Supermarket,Library,Sandwich Place,Seafood Restaurant,Fast Food Restaurant,Intersection,Bakery,Fried Chicken Joint,Farmers Market
+ERSKINE PARK,2759,-33.807618,150.789313,10,6443,mid-age,49,1.0,Athletics & Sports,Yoga Studio,Egyptian Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Field
+ERSKINEVILLE,2043,-33.902234,151.186192,6,8001,adult,29,3.0,Café,Thai Restaurant,Pizza Place,Pub,Bakery,Grocery Store,Bus Stop,Sake Bar,Gourmet Shop,Bistro
+ESCHOL PARK,2558,-34.031357,150.80968000000001,5,2565,adult,29,1.0,Soccer Field,Vietnamese Restaurant,Clothing Store,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+EVELEIGH,2015,-33.897075,151.19113000000002,11,667,adult,29,3.0,Italian Restaurant,Café,Bar,Office,Breakfast Spot,Gourmet Shop,Bistro,Performing Arts Venue,Pub,Park
+FAIRFIELD,2165,-33.868528999999995,150.955512,4,18078,adult,29,0.0,Fast Food Restaurant,Supermarket,Bakery,Post Office,Gym,Bus Station,Lebanese Restaurant,Sandwich Place,Department Store,Fruit & Vegetable Store
+FAIRFIELD EAST,2165,-33.869448999999996,150.977528,4,5273,adult,29,1.0,Automotive Shop,Gym,Business Service,Park,Yoga Studio,Egyptian Restaurant,Event Service,Event Space,Falafel Restaurant,Farm
+FAIRFIELD HEIGHTS,2165,-33.864603,150.93845100000001,4,7524,adult,29,0.0,Pizza Place,Supermarket,Middle Eastern Restaurant,Neighborhood,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+FAIRFIELD WEST,2165,-33.868955,150.922057,4,11561,adult,29,0.0,Supermarket,Gym,Business Service,Coffee Shop,Shopping Mall,Fast Food Restaurant,Field,Event Service,Event Space,Falafel Restaurant
+FAIRLIGHT,2094,-33.794163,151.273978,6,5839,adult,29,3.0,Café,Bowling Alley,Pie Shop,Grocery Store,Liquor Store,Golf Course,Flower Shop,Flea Market,Event Service,Event Space
+FIDDLETOWN,2159,-33.602321,151.055702,3,241,mid-age,49,,,,,,,,,,,
+FIVE DOCK,2046,-33.866368,151.13013600000002,14,9362,mid-age,49,0.0,Café,Deli / Bodega,Sushi Restaurant,Coffee Shop,Park,Pizza Place,Gym,South Indian Restaurant,Mediterranean Restaurant,Fast Food Restaurant
+FOREST GLEN,2157,-33.549519000000004,151.012846,0,69,senior+,69,,,,,,,,,,,
+FOREST LODGE,2037,-33.881215000000005,151.181127,4,4584,adult,29,3.0,Café,Pub,Yoga Studio,Pizza Place,Basketball Court,Bus Stop,Field,Event Space,Falafel Restaurant,Farm
+FORESTVILLE,2087,-33.762011,151.21406000000002,6,8323,mid-age,49,0.0,Pizza Place,Sports Bar,Coffee Shop,Bakery,Supermarket,Park,Yoga Studio,Field,Electronics Store,Event Service
+FREEMANS REACH,2756,-33.545429,150.794878,12,1969,mid-age,49,,,,,,,,,,,
+FRENCHS FOREST,2086,-33.750964,151.22603600000002,6,13481,mid-age,49,0.0,Bus Station,Café,Grocery Store,Fast Food Restaurant,Convenience Store,Shopping Mall,Sandwich Place,Liquor Store,Bakery,Supermarket
+GALSTON,2159,-33.652661,151.043059,3,3143,mid-age,49,3.0,Café,Grocery Store,Fried Chicken Joint,Pub,Shopping Mall,Yoga Studio,Fast Food Restaurant,Electronics Store,Event Service,Event Space
+GEORGES HALL,2198,-33.912851,150.98246899999998,2,9041,adult,29,1.0,Heliport,Grocery Store,Fish & Chips Shop,Bus Station,Yoga Studio,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+GILEAD,2560,-34.107034999999996,150.76181499999998,19,413,senior+,69,,,,,,,,,,,
+GIRRAWEEN,2145,-33.799843,150.947276,42,5577,adult,29,3.0,Playground,Car Wash,Café,Dance Studio,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+GLADESVILLE,2111,-33.832894,151.126964,12,11825,mid-age,49,0.0,Thai Restaurant,Supermarket,Bakery,Pet Store,Café,Shopping Mall,Sporting Goods Shop,Music Store,Pub,Seafood Restaurant
+GLEBE,2037,-33.880815000000005,151.187791,4,11537,adult,29,3.0,Café,Coffee Shop,Pub,Pizza Place,Eastern European Restaurant,Indian Restaurant,Bar,Thai Restaurant,Seafood Restaurant,Bookstore
+GLEN ALPINE,2560,-34.084184,150.775275,19,4566,mid-age,49,,,,,,,,,,,
+GLENDENNING,2761,-33.739075,150.855174,15,5135,adult,29,0.0,Fast Food Restaurant,Pet Store,Convenience Store,Film Studio,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+GLENFIELD,2167,-33.971305,150.89451699999998,0,9639,adult,29,0.0,Platform,Bakery,Fried Chicken Joint,Train Station,Yoga Studio,Field,Event Service,Event Space,Falafel Restaurant,Farm
+GLENHAVEN,2156,-33.703218,151.006899,3,6501,senior+,69,1.0,Health & Beauty Service,Yoga Studio,Eastern European Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+GLENMORE PARK,2745,-33.790683,150.6693,13,23005,adult,29,0.0,Fast Food Restaurant,Café,Grocery Store,Sandwich Place,Coffee Shop,Shop & Service,Bakery,Park,Yoga Studio,Event Service
+GLENORIE,2157,-33.620011,151.02303500000002,0,3497,mid-age,49,,,,,,,,,,,
+GLENWOOD,2768,-33.737863,150.922732,3,16135,mid-age,49,1.0,Bus Line,Park,Bus Station,Gas Station,Electronics Store,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+GLOSSODIA,2756,-33.535657,150.765856,12,2815,adult,29,0.0,Pizza Place,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+GORDON,2072,-33.757349,151.155678,7,7679,mid-age,49,0.0,Bakery,Thai Restaurant,Pizza Place,Café,Coffee Shop,Chinese Restaurant,Sandwich Place,Pharmacy,Platform,Sushi Restaurant
+GRANVILLE,2142,-33.835887,151.01064,7,15332,adult,29,0.0,Platform,Lebanese Restaurant,Dessert Shop,Middle Eastern Restaurant,Train Station,Food,Buffet,Bus Station,Fast Food Restaurant,Sports Bar
+GRASMERE,2570,-34.056293,150.67317,16,1981,senior+,69,1.0,Arts & Entertainment,Yoga Studio,Egyptian Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Field
+GRAYS POINT,2232,-34.058840000000004,151.081652,18,3113,mid-age,49,3.0,Roof Deck,Café,Home Service,Liquor Store,Harbor / Marina,Fast Food Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant
+GREAT MACKEREL BEACH,2108,-33.591729,151.300451,1,36,senior+,69,4.0,Vacation Rental,Beach,Yoga Studio,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Field
+GREEN VALLEY,2168,-33.903526,150.86636000000001,13,12518,mid-age,49,0.0,Asian Restaurant,Convenience Store,Shopping Mall,Coffee Shop,Gym,Fast Food Restaurant,Thai Restaurant,Chinese Restaurant,Supermarket,Yoga Studio
+GREENACRE,2190,-33.906744,151.057271,3,24372,adult,29,0.0,Dessert Shop,Food Truck,Frozen Yogurt Shop,Burger Joint,Supermarket,Grocery Store,Lebanese Restaurant,Dentist's Office,Cuban Restaurant,Farm
+GREENDALE,2550,-36.600111,149.852112,1,66,mid-age,49,,,,,,,,,,,
+GREENDALE,2745,-33.904792,150.646795,13,354,mid-age,49,,,,,,,,,,,
+GREENFIELD PARK,2176,-33.872187,150.889408,18,5100,mid-age,49,3.0,Grocery Store,Café,Pub,Yoga Studio,Field,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+GREENWICH,2065,-33.831958,151.186129,22,5618,adult,29,3.0,Café,Grocery Store,Seafood Restaurant,Park,Yoga Studio,Farmers Market,Electronics Store,Event Service,Event Space,Falafel Restaurant
+GREYSTANES,2145,-33.829667,150.951452,42,22796,adult,29,0.0,Supermarket,Soccer Field,Pet Store,Pub,Shopping Mall,Park,Fast Food Restaurant,Egyptian Restaurant,Electronics Store,Event Service
+GROSE VALE,2753,-33.584089,150.672944,5,1270,mid-age,49,,,,,,,,,,,
+GROSE WOLD,2753,-33.602392,150.688628,5,633,mid-age,49,,,,,,,,,,,
+GUILDFORD,2161,-33.853984000000004,150.985958,8,22342,adult,29,1.0,Lebanese Restaurant,Gas Station,Grocery Store,Bakery,Platform,Flower Shop,Egyptian Restaurant,Electronics Store,Food & Drink Shop,Event Service
+GUILDFORD WEST,2161,-33.851099,150.972299,8,4919,adult,29,0.0,Convenience Store,Home Service,Sports Club,BBQ Joint,Cupcake Shop,Electronics Store,Event Space,Falafel Restaurant,Farm,Farmers Market
+GYMEA,2227,-34.033142,151.085421,6,7577,mid-age,49,3.0,Café,Pizza Place,Italian Restaurant,Convenience Store,Sandwich Place,Coffee Shop,Pub,Art Gallery,Train Station,Electronics Store
+GYMEA BAY,2227,-34.048156,151.08608700000002,6,6878,mid-age,49,1.0,Playground,Home Service,Mexican Restaurant,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+HABERFIELD,2045,-33.880496,151.138839,1,6469,mid-age,49,3.0,Italian Restaurant,Pizza Place,Café,Coffee Shop,Grocery Store,Japanese Restaurant,Bakery,Fishing Store,Farmers Market,Electronics Store
+HAMMONDVILLE,2170,-33.948113,150.95372700000001,22,3487,senior+,69,0.0,Grocery Store,Bakery,Café,Shopping Mall,Fast Food Restaurant,Yoga Studio,Field,Event Service,Event Space,Falafel Restaurant
+HARRINGTON PARK,2567,-34.023239000000004,150.742232,19,10653,mid-age,49,1.0,Restaurant,Yoga Studio,Eastern European Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+HARRIS PARK,2150,-33.822427000000005,151.008961,5,5797,adult,29,0.0,Indian Restaurant,Gym,Café,Coffee Shop,Yoga Studio,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm
+HASSALL GROVE,2761,-33.733813,150.83427700000001,15,4510,mid-age,49,0.0,Convenience Store,Park,Snack Place,Smoke Shop,Australian Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+HAYMARKET,2000,-33.880777,151.202796,18,7341,adult,29,0.0,Thai Restaurant,Chinese Restaurant,Korean Restaurant,Café,Japanese Restaurant,Hotel,Malay Restaurant,Taiwanese Restaurant,Theater,Coffee Shop
+HEATHCOTE,2233,-34.079112,151.00861899999998,13,5998,mid-age,49,0.0,Fast Food Restaurant,Sandwich Place,Liquor Store,Yoga Studio,Food Service,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+HEBERSHAM,2770,-33.743503999999994,150.82268200000001,12,5686,adult,29,1.0,Soccer Field,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+HECKENBERG,2168,-33.911083000000005,150.889921,13,3082,adult,29,1.0,Carpet Store,Yoga Studio,Eastern European Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+HENLEY,2111,-33.842216,151.135943,12,470,mid-age,49,1.0,Park,Tennis Court,Skate Park,Australian Restaurant,Farmers Market,Bus Station,Yoga Studio,Event Service,Event Space,Falafel Restaurant
+HILLSDALE,2036,-33.952684999999995,151.231341,12,5494,adult,29,0.0,Dive Shop,Shopping Mall,Supermarket,Park,Yoga Studio,Field,Event Service,Event Space,Falafel Restaurant,Farm
+HINCHINBROOK,2168,-33.916610999999996,150.86386299999998,13,11203,mid-age,49,1.0,Social Club,Carpet Store,Yoga Studio,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+HOBARTVILLE,2753,-33.601557,150.735673,5,2761,adult,29,0.0,Pub,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+HOLROYD,2142,-33.829836,150.993334,7,1284,adult,29,3.0,Electronics Store,Café,Park,Egyptian Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+HOLSWORTHY,2173,-33.950403,150.949972,1,5481,adult,29,0.0,Grocery Store,Bakery,Café,Shopping Mall,Fast Food Restaurant,Yoga Studio,Field,Event Service,Event Space,Falafel Restaurant
+HOMEBUSH,2140,-33.859654,151.081847,5,6991,adult,29,1.0,Sporting Goods Shop,Dog Run,Bus Stop,Park,Yoga Studio,Field,Event Service,Event Space,Falafel Restaurant,Farm
+HOMEBUSH WEST,2140,-33.866788,151.069369,5,8607,adult,29,1.0,Vietnamese Restaurant,Café,Asian Restaurant,Convenience Store,Park,Fish Market,Golf Course,Bakery,BBQ Joint,Juice Bar
+HORNINGSEA PARK,2171,-33.945088,150.842975,12,3733,mid-age,49,,,,,,,,,,,
+HORNSBY,2077,-33.704747999999995,151.098696,22,22173,adult,29,3.0,Café,Fast Food Restaurant,Supermarket,Bakery,Gym,Asian Restaurant,Movie Theater,Korean Restaurant,Electronics Store,Ramen Restaurant
+HORNSBY HEIGHTS,2077,-33.670086,151.095503,22,6290,mid-age,49,2.0,Park,Food & Drink Shop,Home Service,Yoga Studio,Field,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+HORSLEY PARK,2175,-33.845034000000005,150.84819199999998,0,1861,mid-age,49,3.0,Grocery Store,Café,Athletics & Sports,Park,Field,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+HOXTON PARK,2171,-33.92678,150.857888,12,4354,adult,29,0.0,Chinese Restaurant,Italian Restaurant,Yoga Studio,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+HUNTERS HILL,2110,-33.83484,151.15419599999998,10,9525,mid-age,49,3.0,Italian Restaurant,Breakfast Spot,River,Café,Yoga Studio,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+HUNTINGWOOD,2148,-33.797537,150.879863,34,15,senior+,69,,,,,,,,,,,
+HUNTLEYS COVE,2111,-33.839797999999995,151.144587,12,745,senior+,69,1.0,Pier,Park,Harbor / Marina,Farmers Market,Yoga Studio,Field,Electronics Store,Event Service,Event Space,Falafel Restaurant
+HUNTLEYS POINT,2111,-33.840088,151.14596799999998,12,138,mid-age,49,1.0,Boat or Ferry,Pier,Park,Harbor / Marina,Yoga Studio,Field,Electronics Store,Event Service,Event Space,Falafel Restaurant
+HURLSTONE PARK,2193,-33.909964,151.13224,10,4682,mid-age,49,1.0,Platform,Playground,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+HURSTVILLE,2220,-33.965923,151.10118400000002,9,29829,adult,29,0.0,Chinese Restaurant,Fast Food Restaurant,Supermarket,Café,Japanese Restaurant,Bakery,Asian Restaurant,Dim Sum Restaurant,Vietnamese Restaurant,Dumpling Restaurant
+HURSTVILLE GROVE,2220,-33.980653000000004,151.091136,9,2678,mid-age,49,1.0,Soccer Field,Dog Run,Clothing Store,Park,Harbor / Marina,Yoga Studio,Fast Food Restaurant,Electronics Store,Event Service,Event Space
+ILLAWONG,2234,-33.998018,151.042591,20,7262,mid-age,49,0.0,Convenience Store,Bakery,Gym,Café,Shopping Mall,Field,Event Service,Event Space,Falafel Restaurant,Farm
+INGLEBURN,2565,-33.998718,150.866344,3,15046,adult,29,0.0,Supermarket,Thai Restaurant,Pizza Place,Café,Coffee Shop,Fast Food Restaurant,Yoga Studio,Event Service,Event Space,Falafel Restaurant
+INGLESIDE,2101,-33.683176,151.26232199999998,9,986,mid-age,49,1.0,Farmers Market,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Fast Food Restaurant,Field
+JAMISONTOWN,2750,-33.766193,150.67951000000002,27,5480,adult,29,0.0,Convenience Store,Gym,Sandwich Place,Australian Restaurant,Mexican Restaurant,Field,Event Service,Event Space,Falafel Restaurant,Farm
+KANGAROO POINT,2224,-33.997972,151.096235,7,549,mid-age,49,1.0,Boat or Ferry,Yoga Studio,Film Studio,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Field
+KAREELA,2232,-34.014668,151.08273300000002,18,3456,senior+,69,0.0,Supermarket,Shopping Mall,Café,Restaurant,Coffee Shop,Bakery,Fish Market,Fishing Store,Electronics Store,Event Service
+KEARNS,2558,-34.021321,150.803211,5,2756,mid-age,49,1.0,Grocery Store,BBQ Joint,Kids Store,Athletics & Sports,Pub,Scenic Lookout,Fast Food Restaurant,Electronics Store,Event Service,Event Space
+KELLYVILLE,2155,-33.712415,150.958009,25,27976,mid-age,49,0.0,Burger Joint,Pizza Place,Indian Restaurant,Chinese Restaurant,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+KELLYVILLE RIDGE,2155,-33.700103999999996,150.92865,25,10471,adult,29,0.0,Bus Line,Liquor Store,Fast Food Restaurant,Pub,Bus Stop,Park,Yoga Studio,Event Space,Falafel Restaurant,Farm
+KEMPS CREEK,2178,-33.88013,150.79048500000002,2,2274,mid-age,49,1.0,Bookstore,Gas Station,Food Truck,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Field
+KENSINGTON,2033,-33.912997,151.21901699999998,8,14985,adult,29,0.0,Hunan Restaurant,Sushi Restaurant,Indonesian Restaurant,Kids Store,Malay Restaurant,Pizza Place,Chinese Restaurant,Supermarket,Hotel,Arcade
+KENTHURST,2156,-33.661023,151.005034,3,5035,mid-age,49,3.0,Café,Fish & Chips Shop,Yoga Studio,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+KENTLYN,2560,-34.073171,150.85743,19,746,senior+,69,,,,,,,,,,,
+KILLARA,2071,-33.766376,151.162047,4,10573,mid-age,49,3.0,Theater,Golf Course,Café,Asian Restaurant,Train Station,Egyptian Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant
+KILLARNEY HEIGHTS,2087,-33.773728000000006,151.216125,6,4477,mid-age,49,3.0,Café,Bakery,Pool,Yoga Studio,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+KINGS LANGLEY,2147,-33.742079,150.92271100000002,12,9365,mid-age,49,0.0,Supermarket,Pizza Place,Dentist's Office,Coffee Shop,Liquor Store,Bakery,Yoga Studio,Event Space,Falafel Restaurant,Farm
+KINGS PARK,2148,-33.745736,150.904598,34,3456,adult,29,0.0,Convenience Store,Café,Australian Restaurant,Pub,Stadium,Chinese Restaurant,Yoga Studio,Field,Event Service,Event Space
+KINGSFORD,2032,-33.924921999999995,151.227811,7,15481,adult,29,0.0,Chinese Restaurant,Indonesian Restaurant,Thai Restaurant,Café,Malay Restaurant,Park,Italian Restaurant,Grocery Store,Frozen Yogurt Shop,Fast Food Restaurant
+KINGSGROVE,2208,-33.939481,151.098941,2,12449,mid-age,49,3.0,Pub,Café,Pizza Place,Gym,Trail,Bus Station,Supermarket,Park,Vietnamese Restaurant,Filipino Restaurant
+KINGSWOOD,2340,-31.165879999999998,150.91944099999998,12,1042,mid-age,49,0.0,Convenience Store,Fast Food Restaurant,Restaurant,Athletics & Sports,Train Station,Sandwich Place,Sports Bar,Indian Restaurant,Motel,Pizza Place
+KINGSWOOD,2550,-36.738556,149.81742,1,6,mid-age,49,0.0,Convenience Store,Fast Food Restaurant,Restaurant,Athletics & Sports,Train Station,Sandwich Place,Sports Bar,Indian Restaurant,Motel,Pizza Place
+KINGSWOOD,2747,-33.759966999999996,150.72046,50,9297,adult,29,0.0,Convenience Store,Fast Food Restaurant,Restaurant,Athletics & Sports,Train Station,Sandwich Place,Sports Bar,Indian Restaurant,Motel,Pizza Place
+KIRKHAM,2570,-34.038536,150.71674,16,701,mid-age,49,,,,,,,,,,,
+KIRRAWEE,2232,-34.033743,151.071196,18,9286,senior+,69,0.0,Japanese Restaurant,Hotel Bar,Café,Fast Food Restaurant,Shopping Mall,Yoga Studio,Event Service,Event Space,Falafel Restaurant,Farm
+KIRRIBILLI,2061,-33.846275,151.212705,3,3826,adult,29,3.0,Café,Park,Thai Restaurant,Italian Restaurant,Theme Park Ride / Attraction,Bar,Train Station,Whisky Bar,Theater,Tapas Restaurant
+KOGARAH,2217,-33.963107,151.133462,10,15126,adult,29,0.0,Café,Thai Restaurant,Pub,Gym,Martial Arts Dojo,Sandwich Place,Supermarket,Lebanese Restaurant,Bakery,Chinese Restaurant
+KOGARAH BAY,2217,-33.979116999999995,151.12329599999998,10,2018,mid-age,49,0.0,Convenience Store,Pizza Place,Paper / Office Supplies Store,Park,Fast Food Restaurant,Yoga Studio,Field,Electronics Store,Event Service,Event Space
+KURMOND,2757,-33.549452,150.70111599999998,1,859,mid-age,49,,,,,,,,,,,
+KURNELL,2231,-34.008487,151.204879,1,2271,mid-age,49,4.0,Beach,Fish & Chips Shop,Yoga Studio,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+KURRAJONG,2758,-33.546749,150.660686,4,3062,mid-age,49,,,,,,,,,,,
+KURRAJONG HILLS,2758,-33.541464000000005,150.639331,4,663,mid-age,49,3.0,Café,Yoga Studio,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Field
+KYEEMAGH,2216,-33.951452,151.159943,13,907,senior+,69,1.0,Park,Sports Bar,Seafood Restaurant,Beach,Fish & Chips Shop,Yoga Studio,Event Service,Event Space,Falafel Restaurant,Farm
+KYLE BAY,2221,-33.991238,151.098301,2,1041,mid-age,49,3.0,Italian Restaurant,Café,Pub,Park,Yoga Studio,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+LA PEROUSE,2036,-33.989634,151.231507,12,407,mid-age,49,3.0,Beach,Café,Tour Provider,Fish & Chips Shop,History Museum,Historic Site,Burger Joint,Bus Stop,Park,Seafood Restaurant
+LAKEMBA,2195,-33.920457,151.075921,5,17031,adult,29,0.0,Pizza Place,Lebanese Restaurant,Supermarket,Boutique,Night Market,Grocery Store,Indonesian Restaurant,Train Station,Yoga Studio,Electronics Store
+LALOR PARK,2147,-33.761339,150.930337,12,7662,adult,29,0.0,Pizza Place,Grocery Store,Café,Business Service,Shopping Mall,Yoga Studio,Fast Food Restaurant,Event Service,Event Space,Falafel Restaurant
+LANE COVE,2066,-33.814599,151.168722,16,10817,adult,29,0.0,Café,Gym,Pizza Place,Thai Restaurant,Supermarket,Bakery,Chinese Restaurant,Japanese Restaurant,Fried Chicken Joint,Sushi Restaurant
+LANE COVE NORTH,2066,-33.807556,151.17091200000002,16,11442,adult,29,1.0,Playground,Brewery,Café,Coffee Shop,Park,Fast Food Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant
+LANE COVE WEST,2066,-33.806246,151.153281,16,2625,mid-age,49,3.0,Café,Park,Spa,Thai Restaurant,Climbing Gym,Yoga Studio,Field,Event Service,Event Space,Falafel Restaurant
+LANSDOWNE,2163,-33.893687,150.971005,7,14,adult,29,1.0,Lake,Yoga Studio,Egyptian Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Field
+LANSDOWNE,2430,-31.782989,152.534579,16,596,senior+,69,1.0,Lake,Yoga Studio,Egyptian Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Field
+LANSVALE,2166,-33.89733,150.952786,4,2554,mid-age,49,0.0,Food Truck,Fast Food Restaurant,Gym,Chinese Restaurant,Italian Restaurant,Flower Shop,Food & Drink Shop,Electronics Store,Food Court,Event Service
+LAUGHTONDALE,2775,-33.410229,151.02459199999998,0,81,mid-age,49,,,,,,,,,,,
+LAVENDER BAY,2060,-33.843070000000004,151.208015,11,956,adult,29,3.0,Café,Coffee Shop,Bar,Bakery,Juice Bar,Japanese Restaurant,Gym,Dumpling Restaurant,Electronics Store,Garden
+LEETS VALE,2775,-33.427708,150.948095,0,57,senior+,69,,,,,,,,,,,
+LEICHHARDT,2040,-33.883793,151.157057,11,14625,adult,29,3.0,Café,Italian Restaurant,Pub,Thai Restaurant,Japanese Restaurant,Sushi Restaurant,Gym,Grocery Store,Bakery,Bar
+LEONAY,2750,-33.759156,150.65231799999998,27,2503,mid-age,49,1.0,Golf Course,Sports Bar,River,Yoga Studio,Field,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+LEPPINGTON,2179,-33.964333,150.81727,1,3501,adult,29,0.0,Gas Station,Shopping Mall,Yoga Studio,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+LETHBRIDGE PARK,2770,-33.736938,150.799824,12,4730,adult,29,,,,,,,,,,,
+LEUMEAH,2560,-34.052285,150.833396,19,9826,adult,29,0.0,Platform,Pizza Place,Grocery Store,Sports Bar,Neighborhood,Stadium,Athletics & Sports,Fast Food Restaurant,Electronics Store,Event Service
+LEWISHAM,2049,-33.894902,151.144413,4,3161,adult,29,3.0,Café,Platform,Advertising Agency,Light Rail Station,Deli / Bodega,Gym,Newsstand,Bakery,Paper / Office Supplies Store,Farmers Market
+LIBERTY GROVE,2138,-33.841665,151.083609,4,2254,adult,29,0.0,Bakery,Lake,Pizza Place,Liquor Store,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+LIDCOMBE,2141,-33.865218,151.043519,7,19620,adult,29,0.0,Café,Park,Korean Restaurant,Vietnamese Restaurant,Grocery Store,Fried Chicken Joint,Bakery,Garden,Sandwich Place,Chinese Restaurant
+LILLI PILLI,2229,-34.069835999999995,151.114032,15,1378,mid-age,49,1.0,Pool,Boat or Ferry,Harbor / Marina,Yoga Studio,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+LILLI PILLI,2536,-35.773317,150.225056,5,618,senior+,69,1.0,Pool,Boat or Ferry,Harbor / Marina,Yoga Studio,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+LILYFIELD,2040,-33.872991,151.165788,11,7611,mid-age,49,0.0,Grocery Store,Fast Food Restaurant,Breakfast Spot,Pizza Place,Café,Bus Stop,Park,Yoga Studio,Event Service,Event Space
+LINDFIELD,2070,-33.776441,151.16873600000002,10,9774,mid-age,49,3.0,Café,Pizza Place,Coffee Shop,Platform,Convenience Store,Thai Restaurant,Farmers Market,Train Station,Japanese Restaurant,Fruit & Vegetable Store
+LINLEY POINT,2066,-33.826777,151.148251,16,352,mid-age,49,2.0,Park,Historic Site,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+LITTLE BAY,2036,-33.981177,151.24320600000001,12,4474,adult,29,3.0,Park,Supermarket,Italian Restaurant,Pizza Place,Café,Asian Restaurant,Event Service,Event Space,Falafel Restaurant,Farm
+LIVERPOOL,2170,-33.92505,150.924429,22,27107,adult,29,3.0,Lebanese Restaurant,Café,Gym,Indian Restaurant,Shopping Mall,Dessert Shop,Cafeteria,Italian Restaurant,Fast Food Restaurant,Event Service
+LLANDILO,2747,-33.708904,150.756773,50,1640,mid-age,49,3.0,Café,Golf Course,Yoga Studio,Food Stand,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+LOFTUS,2232,-34.048075,151.051176,18,4135,mid-age,49,0.0,Fast Food Restaurant,Bakery,Light Rail Station,River,Train Station,Museum,Yoga Studio,Event Service,Event Space,Falafel Restaurant
+LONDONDERRY,2753,-33.645188,150.73698000000002,5,3896,mid-age,49,0.0,Pizza Place,Distribution Center,Yoga Studio,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+LONG POINT,2330,-32.568903000000006,151.109612,3,35,mid-age,49,,,,,,,,,,,
+LONG POINT,2564,-34.016436999999996,150.898579,5,188,senior+,69,,,,,,,,,,,
+LONG POINT,2564,-34.011944,150.896944,11,193,adult,29,,,,,,,,,,,
+LONGUEVILLE,2066,-33.833096000000005,151.16534199999998,16,2082,mid-age,49,2.0,Park,Harbor / Marina,Bus Stop,Yoga Studio,Fast Food Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+LOVETT BAY,2105,-33.637405,151.27842900000002,0,141,mid-age,49,4.0,Beach,Yoga Studio,Food Truck,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Field
+LOWER PORTLAND,2756,-33.451409000000005,150.865871,12,586,mid-age,49,,,,,,,,,,,
+LUCAS HEIGHTS,2234,-34.047985,150.988369,20,10529,senior+,69,,,,,,,,,,,
+LUDDENHAM,2745,-33.883725,150.693079,13,1814,mid-age,49,1.0,Grocery Store,Burger Joint,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+LUGARNO,2210,-33.982956,151.046942,21,5616,mid-age,49,2.0,Thai Restaurant,Business Service,Park,Yoga Studio,Egyptian Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+LURNEA,2170,-33.931946999999994,150.896105,22,9333,adult,29,0.0,Bakery,Pizza Place,Kids Store,Pharmacy,Shopping Mall,Fast Food Restaurant,Egyptian Restaurant,Electronics Store,Event Service,Event Space
+MACQUARIE FIELDS,2564,-33.989471,150.882626,5,13728,adult,29,0.0,Bakery,Pizza Place,Fish & Chips Shop,Chinese Restaurant,Yoga Studio,Field,Event Service,Event Space,Falafel Restaurant,Farm
+MACQUARIE LINKS,2565,-33.982185,150.86756100000002,3,1373,mid-age,49,2.0,Park,Yoga Studio,Eastern European Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+MACQUARIE PARK,2113,-33.779795,151.134041,22,8153,adult,29,2.0,Park,Coffee Shop,Steakhouse,Garden Center,Yoga Studio,Field,Event Service,Event Space,Falafel Restaurant,Farm
+MAIANBAR,2230,-34.081826,151.129788,25,498,mid-age,49,3.0,Café,Home Service,Trail,Harbor / Marina,Yoga Studio,Fast Food Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant
+MALABAR,2036,-33.965376,151.245969,12,5423,mid-age,49,3.0,Café,Bus Station,Restaurant,Fried Chicken Joint,Trail,Burger Joint,Chinese Restaurant,Yoga Studio,Event Space,Falafel Restaurant
+MANLY,2095,-33.797144,151.28804,20,15854,adult,29,3.0,Café,Bar,Bakery,Coffee Shop,Ice Cream Shop,Seafood Restaurant,Beach,Mexican Restaurant,Thai Restaurant,Pizza Place
+MANLY VALE,2093,-33.784036,151.267315,12,6166,adult,29,0.0,Thai Restaurant,Pool,Liquor Store,Furniture / Home Store,Fast Food Restaurant,Supermarket,Yoga Studio,Field,Event Service,Event Space
+MARAYLYA,2765,-33.58198,150.90695,7,1240,mid-age,49,,,,,,,,,,,
+MARAYONG,2148,-33.746168,150.898338,34,7727,adult,29,1.0,Australian Restaurant,Business Service,Stadium,Pub,Chinese Restaurant,Yoga Studio,Field,Event Service,Event Space,Falafel Restaurant
+MAROOTA,2756,-33.473024,150.970972,12,634,mid-age,49,1.0,Gas Station,Yoga Studio,Food Stand,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+MAROUBRA,2035,-33.946123,151.242818,22,30681,adult,29,0.0,Convenience Store,Pizza Place,Sushi Restaurant,Burger Joint,Food,Flower Shop,Event Service,Event Space,Falafel Restaurant,Farm
+MARRICKVILLE,2204,-33.910923,151.15718700000002,10,26607,adult,29,3.0,Vietnamese Restaurant,Café,Bar,Gym,Deli / Bodega,Greek Restaurant,Pizza Place,Seafood Restaurant,Sandwich Place,Lounge
+MARSDEN PARK,2765,-33.697585,150.832318,7,1009,senior+,69,,,,,,,,,,,
+MARSFIELD,2122,-33.783971,151.09424099999998,25,13293,adult,29,0.0,Pizza Place,Thai Restaurant,Breakfast Spot,Restaurant,Indian Restaurant,Business Service,Park,Chinese Restaurant,Yoga Studio,Farmers Market
+MASCOT,2020,-33.931189,151.19431,12,14759,adult,29,3.0,Thai Restaurant,Café,Bakery,Souvlaki Shop,Coffee Shop,Grocery Store,Indonesian Restaurant,Fried Chicken Joint,Italian Restaurant,Hotel
+MATRAVILLE,2036,-33.957549,151.23084599999999,12,9812,mid-age,49,0.0,Convenience Store,Shopping Plaza,Sandwich Place,Supermarket,Bakery,Pizza Place,Flea Market,Farmers Market,Electronics Store,Event Service
+MAYS HILL,2145,-33.82066,150.990511,42,762,adult,29,2.0,Park,Museum,Yoga Studio,Field,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+MCGRATHS HILL,2756,-33.613434999999996,150.840222,12,2550,mid-age,49,0.0,Miscellaneous Shop,Shopping Mall,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+MCMAHONS POINT,2060,-33.844640000000005,151.20425,11,2283,adult,29,1.0,Park,Hotel,Coffee Shop,Moroccan Restaurant,Mediterranean Restaurant,Café,Garden,Bar,Gym,Australian Restaurant
+MEADOWBANK,2114,-33.815912,151.090715,12,4406,adult,29,0.0,Grocery Store,Park,Thai Restaurant,Train Station,Pizza Place,Café,Pharmacy,Shopping Mall,Gym,Chinese Restaurant
+MELROSE PARK,2114,-33.816575,151.076089,12,1576,mid-age,49,2.0,Gym,Park,Yoga Studio,Field,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+MENAI,2234,-34.012564000000005,151.014645,20,10321,mid-age,49,0.0,Sushi Restaurant,Fast Food Restaurant,Sandwich Place,Bus Station,Bar,Supermarket,Café,Liquor Store,Juice Bar,Australian Restaurant
+MENANGLE PARK,2563,-34.100121,150.757016,0,258,adult,29,1.0,Gift Shop,Yoga Studio,Food Stand,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+MERRYLANDS,2160,-33.836381,150.989219,6,29660,adult,29,0.0,Fast Food Restaurant,Pizza Place,Café,Supermarket,Coffee Shop,Thai Restaurant,Discount Store,Food Court,Farmers Market,Big Box Store
+MERRYLANDS WEST,2160,-33.832864,150.972036,6,6596,adult,29,0.0,Fast Food Restaurant,Pizza Place,Grocery Store,Middle Eastern Restaurant,Pub,Gym,Yoga Studio,Electronics Store,Event Service,Event Space
+MIDDLE COVE,2068,-33.794087,151.207975,15,1327,mid-age,49,2.0,Park,Playground,Café,Bus Stop,Egyptian Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+MIDDLE DURAL,2158,-33.648471,151.021276,3,1011,senior+,69,1.0,Indian Restaurant,Golf Course,Lingerie Store,Yoga Studio,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+MIDDLETON GRANGE,2171,-33.914093,150.843547,12,5181,adult,29,,,,,,,,,,,
+MILLERS POINT,2000,-33.858315000000005,151.203519,18,1494,mid-age,49,3.0,Café,Pub,Hotel,Coffee Shop,Harbor / Marina,Park,Brewery,Italian Restaurant,Japanese Restaurant,Theater
+MILPERRA,2214,-33.937834,150.989263,0,3938,mid-age,49,0.0,Construction & Landscaping,Golf Course,Deli / Bodega,Fast Food Restaurant,Yoga Studio,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm
+MILSONS PASSAGE,2083,-33.518966999999996,151.176541,0,16,senior+,69,,,,,,,,,,,
+MILSONS POINT,2061,-33.847526,151.211568,3,2166,adult,29,3.0,Café,Italian Restaurant,Park,Thai Restaurant,Bar,Theme Park Ride / Attraction,Train Station,Pub,Theater,Tapas Restaurant
+MINCHINBURY,2770,-33.781673,150.81366699999998,12,5626,adult,29,3.0,Café,Sandwich Place,Shopping Mall,Yoga Studio,Fast Food Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+MINTO,2566,-34.032022,150.848208,4,12560,adult,29,0.0,Fast Food Restaurant,Convenience Store,Grocery Store,Coffee Shop,Shopping Mall,Department Store,Farmers Market,Athletics & Sports,Supermarket,Yoga Studio
+MINTO HEIGHTS,2566,-34.037543,150.871353,4,365,senior+,69,,,,,,,,,,,
+MIRANDA,2228,-34.034014,151.100428,6,15269,adult,29,0.0,Fast Food Restaurant,Department Store,Bakery,Coffee Shop,Dumpling Restaurant,Café,Bar,Juice Bar,Clothing Store,Electronics Store
+MONA VALE,2103,-33.67707,151.30031599999998,5,10668,senior+,69,3.0,Café,Park,Supermarket,Bus Stop,Asian Restaurant,Sandwich Place,Gym,Fried Chicken Joint,Sushi Restaurant,Fast Food Restaurant
+MONTEREY,2217,-33.973068,151.150983,10,4539,mid-age,49,1.0,Park,Breakfast Spot,Burger Joint,Beach,Seafood Restaurant,Bus Stop,Yoga Studio,Event Space,Falafel Restaurant,Farm
+MOORE PARK,2021,-33.893632000000004,151.219357,23,18,adult,29,1.0,Event Space,Park,Greek Restaurant,Pub,Café,Falafel Restaurant,Italian Restaurant,Golf Course,Cricket Ground,Fish Market
+MOOREBANK,2170,-33.933805,150.953602,22,9739,adult,29,0.0,Chinese Restaurant,Supermarket,Italian Restaurant,Pharmacy,Pub,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+MORNING BAY,2108,-33.623044,151.281623,1,302,senior+,69,1.0,Trail,Yoga Studio,Eastern European Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+MORTDALE,2223,-33.972239,151.075391,3,10415,adult,29,0.0,Newsstand,Sandwich Place,Italian Restaurant,Park,Grocery Store,Event Space,Indian Restaurant,Steakhouse,Café,Cupcake Shop
+MORTLAKE,2137,-33.843435,151.10698,10,1043,adult,29,3.0,Café,Pizza Place,Thai Restaurant,Grocery Store,Pub,Park,Farmers Market,Egyptian Restaurant,Electronics Store,Event Service
+MOSMAN,2088,-33.829077000000005,151.24409,41,28470,mid-age,49,3.0,Café,Bakery,Italian Restaurant,Pub,Grocery Store,Cheese Shop,Clothing Store,Japanese Restaurant,Creperie,Fried Chicken Joint
+MOUNT ANNAN,2567,-34.054864,150.764158,19,11696,mid-age,49,0.0,Platform,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+MOUNT COLAH,2079,-33.664817,151.117161,1,7093,mid-age,49,1.0,Mountain,Home Service,Liquor Store,Yoga Studio,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+MOUNT DRUITT,2770,-33.766434000000004,150.81698899999998,12,16730,adult,29,0.0,Fast Food Restaurant,Coffee Shop,Platform,Gym,Juice Bar,Electronics Store,Arts & Crafts Store,Fried Chicken Joint,Movie Theater,Music Store
+MOUNT LEWIS,2190,-33.917157,151.04783799999998,3,1194,adult,29,0.0,Fast Food Restaurant,Dessert Shop,Pastry Shop,Lebanese Restaurant,Yoga Studio,Field,Electronics Store,Event Service,Event Space,Falafel Restaurant
+MOUNT LEWIS,2200,-33.917157,151.04783799999998,13,1191,adult,29,0.0,Fast Food Restaurant,Dessert Shop,Pastry Shop,Lebanese Restaurant,Yoga Studio,Field,Electronics Store,Event Service,Event Space,Falafel Restaurant
+MOUNT PRITCHARD,2170,-33.894816999999996,150.90304,22,9960,adult,29,1.0,Dim Sum Restaurant,Soccer Field,Thrift / Vintage Store,Bistro,Vietnamese Restaurant,Gym / Fitness Center,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant
+MOUNT VERNON,2178,-33.862377,150.80788700000002,2,1188,mid-age,49,,,,,,,,,,,
+MULGOA,2745,-33.838167,150.683371,13,1898,mid-age,49,,,,,,,,,,,
+MULGRAVE,2756,-33.626053000000006,150.829912,12,76,young,9,1.0,Train Station,Bus Station,Yoga Studio,Egyptian Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+NARELLAN VALE,2567,-34.055271000000005,150.74408,19,7188,mid-age,49,1.0,Snack Place,Athletics & Sports,Japanese Restaurant,Yoga Studio,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+NAREMBURN,2065,-33.817299,151.20116000000002,22,5885,adult,29,3.0,Café,Pizza Place,Bike Rental / Bike Share,Liquor Store,Beer Bar,Scenic Lookout,Japanese Restaurant,Seafood Restaurant,Thai Restaurant,Electronics Store
+NARRABEEN,2101,-33.723127000000005,151.287366,9,8194,senior+,69,1.0,Grocery Store,Concert Hall,Park,Bus Station,Yoga Studio,Field,Event Service,Event Space,Falafel Restaurant,Farm
+NARRAWEENA,2099,-33.749912,151.274687,20,6625,mid-age,49,3.0,Café,Liquor Store,Shopping Mall,Park,Yoga Studio,Field,Event Service,Event Space,Falafel Restaurant,Farm
+NARWEE,2209,-33.948609000000005,151.069628,12,5622,adult,29,0.0,Convenience Store,Pub,Café,Train Station,Bakery,Pizza Place,Flower Shop,Farmers Market,Electronics Store,Event Service
+NELSON,2550,-36.675498,149.971179,1,8,young,9,,,,,,,,,,,
+NELSON,2765,-33.652795000000005,150.915685,7,444,senior+,69,,,,,,,,,,,
+NEUTRAL BAY,2089,-33.83112,151.22123200000001,9,10478,adult,29,0.0,Japanese Restaurant,Café,Thai Restaurant,Gym,Bakery,Supermarket,Malay Restaurant,Italian Restaurant,Pharmacy,Burger Joint
+NEWINGTON,2127,-33.839276,151.05482800000001,5,5798,adult,29,1.0,Food Stand,Bus Station,Flower Shop,Arcade,Bus Stop,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+NEWPORT,2106,-33.659896,151.309312,5,9283,mid-age,49,1.0,Burger Joint,Sports Club,Pub,Harbor / Marina,Field,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+NEWTOWN,2042,-33.896449,151.180013,9,15027,adult,29,0.0,Café,Bar,Pub,Pizza Place,Bakery,Vegetarian / Vegan Restaurant,Ice Cream Shop,Coffee Shop,Australian Restaurant,Cocktail Bar
+NORMANHURST,2076,-33.720999,151.097331,11,5280,mid-age,49,3.0,Platform,Thai Restaurant,Café,Train Station,Fast Food Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+NORTH BALGOWLAH,2093,-33.787074,151.251721,12,3653,mid-age,49,3.0,Café,Food Service,Convenience Store,Gym / Fitness Center,Fried Chicken Joint,Liquor Store,Gaming Cafe,Field,Event Space,Falafel Restaurant
+NORTH BONDI,2026,-33.8857,151.279788,113,9162,adult,29,1.0,Café,Australian Restaurant,Pizza Place,Israeli Restaurant,Flea Market,Mexican Restaurant,Bus Station,Fish & Chips Shop,Farmers Market,Falafel Restaurant
+NORTH CURL CURL,2099,-33.761652000000005,151.295691,20,4108,mid-age,49,1.0,Vegetarian / Vegan Restaurant,Scenic Lookout,Beach,Liquor Store,Filipino Restaurant,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+NORTH EPPING,2121,-33.759777,151.087742,4,4538,mid-age,49,1.0,Playground,Dog Run,Yoga Studio,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+NORTH MANLY,2100,-33.775702,151.269339,11,3074,mid-age,49,1.0,Gas Station,Golf Course,Athletics & Sports,Park,Yoga Studio,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+NORTH NARRABEEN,2101,-33.702661,151.293622,9,5864,mid-age,49,3.0,Construction & Landscaping,Café,Gym / Fitness Center,Stadium,Yoga Studio,Field,Event Service,Event Space,Falafel Restaurant,Farm
+NORTH PARRAMATTA,2151,-33.798043,151.010707,5,13253,adult,29,1.0,Hotel,Bus Stop,Pharmacy,Music Store,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+NORTH RICHMOND,2754,-33.582355,150.721891,3,4983,mid-age,49,3.0,Café,Shopping Mall,Sandwich Place,Grocery Store,Fast Food Restaurant,Chinese Restaurant,Park,Sports Bar,Fish & Chips Shop,Farm
+NORTH ROCKS,2151,-33.768119,151.02854,5,7978,mid-age,49,3.0,Café,Gym,Portuguese Restaurant,Shopping Mall,Australian Restaurant,Supermarket,Coffee Shop,Chinese Restaurant,Department Store,Middle Eastern Restaurant
+NORTH RYDE,2113,-33.79677,151.124355,22,10867,mid-age,49,0.0,Café,Thai Restaurant,Liquor Store,Farmers Market,Bakery,Fish & Chips Shop,Shopping Mall,Deli / Bodega,Thrift / Vintage Store,Pharmacy
+NORTH ST MARYS,2760,-33.776502,150.781319,11,3903,adult,29,2.0,Park,Yoga Studio,Eastern European Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+NORTH STRATHFIELD,2137,-33.857459999999996,151.09195400000002,10,4748,adult,29,0.0,Pizza Place,Indian Restaurant,Liquor Store,Supermarket,Chinese Restaurant,Japanese Restaurant,Asian Restaurant,Noodle House,Sports Club,Thai Restaurant
+NORTH SYDNEY,2055,-33.802837,151.104935,0,7707,adult,29,3.0,Café,Coffee Shop,Japanese Restaurant,Gym,Bar,Juice Bar,Sandwich Place,Bakery,Vietnamese Restaurant,Park
+NORTH SYDNEY,2060,-33.838265,151.206481,11,7713,adult,29,3.0,Café,Coffee Shop,Japanese Restaurant,Gym,Bar,Juice Bar,Sandwich Place,Bakery,Vietnamese Restaurant,Park
+NORTH TURRAMURRA,2074,-33.713419,151.147146,14,4269,senior+,69,0.0,Grocery Store,Bakery,Australian Restaurant,Chinese Restaurant,Italian Restaurant,Food & Drink Shop,Flower Shop,Farmers Market,Electronics Store,Event Service
+NORTH WILLOUGHBY,2068,-33.793089,151.19578700000002,15,4173,mid-age,49,3.0,Café,Grocery Store,Japanese Restaurant,Pizza Place,Pub,Gas Station,Thai Restaurant,Liquor Store,BBQ Joint,Chinese Restaurant
+NORTH WAHROONGA,2076,-33.702704,151.123179,11,1975,mid-age,49,,,,,,,,,,,
+NORTHBRIDGE,2063,-33.815028000000005,151.222266,1,6331,mid-age,49,1.0,Harbor / Marina,Golf Course,Park,Yoga Studio,Fast Food Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+NORTHMEAD,2152,-33.783849,150.994336,5,11216,adult,29,0.0,Bowling Green,Pizza Place,Baseball Field,Seafood Restaurant,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+NORTHWOOD,2066,-33.829732,151.177751,16,987,mid-age,49,1.0,Pier,Boat or Ferry,Park,Yoga Studio,Field,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+OAKHURST,2761,-33.744048,150.83481899999998,15,6959,adult,29,0.0,Fast Food Restaurant,Café,Grocery Store,Sandwich Place,Fish & Chips Shop,Department Store,Shopping Mall,Liquor Store,Yoga Studio,Event Space
+OAKVILLE,2765,-33.622562,150.862154,7,1969,mid-age,49,,,,,,,,,,,
+OATLANDS,2117,-33.796298,151.02631399999999,6,5661,mid-age,49,0.0,Grocery Store,Golf Course,Shopping Mall,Burger Joint,Yoga Studio,Field,Event Service,Event Space,Falafel Restaurant,Farm
+OATLEY,2223,-33.981428,151.082765,3,10491,mid-age,49,3.0,Café,Park,Pub,Bakery,Grocery Store,Australian Restaurant,Chinese Restaurant,Thai Restaurant,Plaza,Film Studio
+OLD GUILDFORD,2161,-33.867084000000006,150.98807299999999,8,2667,adult,29,0.0,Fast Food Restaurant,Electronics Store,Paper / Office Supplies Store,Yoga Studio,Eastern European Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+OLD TOONGABBIE,2146,-33.792713,150.974108,0,3126,mid-age,49,0.0,BBQ Joint,Dessert Shop,Fast Food Restaurant,Bakery,IT Services,Food Court,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant
+ORAN PARK,2570,-34.006941,150.723908,16,4762,adult,29,1.0,Electronics Store,Yoga Studio,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Field
+ORCHARD HILLS,2748,-33.779331,150.71631200000002,1,1890,mid-age,49,1.0,Flower Shop,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+OXFORD FALLS,2100,-33.730197,151.24821799999998,11,143,senior+,69,1.0,Scenic Lookout,Yoga Studio,Cosmetics Shop,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+OXLEY PARK,2760,-33.771260999999996,150.79263999999998,11,3100,adult,29,0.0,Convenience Store,IT Services,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+OYSTER BAY,2225,-34.006894,151.081067,5,5479,mid-age,49,1.0,Spa,Pizza Place,Dog Run,Park,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+PADDINGTON,2021,-33.885032,151.226475,23,12922,adult,29,3.0,Café,Bar,Italian Restaurant,Coffee Shop,Restaurant,Pizza Place,Flea Market,Fast Food Restaurant,Boutique,Road
+PADSTOW,2211,-33.953915,151.038163,6,13313,mid-age,49,0.0,Cosmetics Shop,Supermarket,Thai Restaurant,Coffee Shop,Pharmacy,Seafood Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant
+PADSTOW HEIGHTS,2211,-33.971073,151.030955,6,3537,senior+,69,3.0,Café,Yoga Studio,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Field
+PAGEWOOD,2035,-33.940108,151.22841100000002,22,3792,mid-age,49,0.0,Optical Shop,Pizza Place,Liquor Store,Pub,Coffee Shop,Gym,Chinese Restaurant,Farmers Market,Egyptian Restaurant,Electronics Store
+PALM BEACH,2108,-33.604282,151.321419,1,1586,senior+,69,3.0,Café,Scenic Lookout,Beach,Park,Yoga Studio,Fast Food Restaurant,Event Service,Event Space,Falafel Restaurant,Farm
+PANANIA,2213,-33.95613,150.99804699999999,6,12418,mid-age,49,0.0,Pizza Place,Fried Chicken Joint,Grocery Store,Train Station,Seafood Restaurant,Thai Restaurant,Pub,Fast Food Restaurant,Bakery,Coffee Shop
+PARKLEA,2768,-33.728123,150.923807,3,3477,adult,29,1.0,Playground,Athletics & Sports,Fast Food Restaurant,Bus Station,Egyptian Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+PARRAMATTA,2150,-33.816957,151.003451,5,25793,adult,29,0.0,Café,Coffee Shop,Department Store,Thai Restaurant,Chinese Restaurant,Pub,Burger Joint,Sushi Restaurant,Fast Food Restaurant,Sandwich Place
+PEAKHURST,2210,-33.959715,151.06218700000002,21,10548,senior+,69,3.0,Grocery Store,Café,Pub,Falafel Restaurant,Yoga Studio,Field,Electronics Store,Event Service,Event Space,Farm
+PEAKHURST HEIGHTS,2210,-33.968127,151.057596,21,2345,senior+,69,3.0,Golf Course,Café,Tennis Court,Park,Yoga Studio,Fast Food Restaurant,Event Service,Event Space,Falafel Restaurant,Farm
+PEMULWUY,2145,-33.821944,150.923752,42,5013,adult,29,3.0,Gym,Café,Yoga Studio,Egyptian Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+PENDLE HILL,2145,-33.801912,150.955614,42,7244,adult,29,0.0,Platform,Convenience Store,Chinese Restaurant,Supermarket,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+PENNANT HILLS,2120,-33.738681,151.071433,13,7296,mid-age,49,0.0,Thai Restaurant,Café,Gym,Pub,Noodle House,Sandwich Place,Sushi Restaurant,Grocery Store,Chinese Restaurant,Farmers Market
+PENRITH,2750,-33.744073,150.69602,27,13300,adult,29,0.0,Warehouse Store,Coffee Shop,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+PENSHURST,2222,-33.963346,151.08674399999998,0,12800,adult,29,3.0,Café,Fast Food Restaurant,Pizza Place,Grocery Store,Gym,Train Station,Gas Station,Farmers Market,Electronics Store,Event Service
+PETERSHAM,2049,-33.896242,151.15413600000002,4,8096,adult,29,3.0,Café,Pub,Portuguese Restaurant,Liquor Store,Bus Stop,Candy Store,Bar,Beer Garden,Supermarket,Falafel Restaurant
+PHILLIP BAY,2036,-33.980556,151.236692,12,702,mid-age,49,3.0,Construction & Landscaping,Café,Yoga Studio,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+PICNIC POINT,2213,-33.979303,151.000056,6,6148,mid-age,49,1.0,Trail,Molecular Gastronomy Restaurant,Park,Field,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+PITT TOWN,2756,-33.586184,150.860081,12,3036,mid-age,49,3.0,Grocery Store,Café,Pub,Yoga Studio,Field,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+PITT TOWN BOTTOMS,2756,-33.596291,150.841424,12,107,mid-age,49,,,,,,,,,,,
+PLEASURE POINT,2172,-33.966909,150.98764,1,517,mid-age,49,2.0,Park,Yoga Studio,Eastern European Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+PLUMPTON,2761,-33.751432,150.841204,15,9193,adult,29,0.0,Convenience Store,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Field
+POINT PIPER,2027,-33.870083,151.252329,7,1424,senior+,69,1.0,Harbor / Marina,Boat Rental,Yoga Studio,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+PORT BOTANY,2036,-33.966245,151.225013,12,8790,senior+,69,1.0,Business Service,Bus Stop,Yoga Studio,Costume Shop,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+PORT HACKING,2229,-34.067503,151.122449,15,1097,young,9,3.0,Café,Liquor Store,Yoga Studio,Food Stand,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+POTTS HILL,2143,-33.898247,151.031087,0,876,adult,29,1.0,Auto Workshop,Optical Shop,Yoga Studio,Egyptian Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+POTTS POINT,2011,-33.869026,151.225603,30,9421,adult,29,3.0,Café,Australian Restaurant,Hotel,Park,Italian Restaurant,Bar,Trail,Burger Joint,Japanese Restaurant,Chinese Restaurant
+PRAIRIEWOOD,2176,-33.867342,150.90213,18,3254,mid-age,49,0.0,Convenience Store,Fried Chicken Joint,Flea Market,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+PRESTONS,2170,-33.942903,150.872145,22,15308,mid-age,49,1.0,Fried Chicken Joint,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+PROSPECT,2148,-33.801553000000006,150.916198,34,4726,adult,29,0.0,Furniture / Home Store,Sporting Goods Shop,Flower Shop,Sandwich Place,Shopping Mall,Yoga Studio,Field,Event Service,Event Space,Falafel Restaurant
+PUNCHBOWL,2196,-33.925686,151.05463500000002,5,20242,adult,29,3.0,Lebanese Restaurant,Grocery Store,Australian Restaurant,Café,Train Station,Yoga Studio,Electronics Store,Event Service,Event Space,Falafel Restaurant
+PUNCHBOWL,2460,-29.494598999999997,152.795221,3,289,senior+,69,3.0,Lebanese Restaurant,Grocery Store,Australian Restaurant,Café,Train Station,Yoga Studio,Electronics Store,Event Service,Event Space,Falafel Restaurant
+PUTNEY,2112,-33.824735,151.112549,11,4105,mid-age,49,3.0,Café,Thai Restaurant,Grocery Store,Burger Joint,Gym Pool,Park,Hardware Store,Farm,Egyptian Restaurant,Electronics Store
+PYMBLE,2073,-33.74414,151.14110300000002,6,11040,mid-age,49,0.0,Pizza Place,Coffee Shop,Pub,Train Station,Yoga Studio,Field,Electronics Store,Event Service,Event Space,Falafel Restaurant
+PYRMONT,2009,-33.869709,151.19393,9,12832,adult,29,1.0,Café,Fish Market,Seafood Restaurant,Bar,Australian Restaurant,Hotel,Restaurant,Japanese Restaurant,Pub,Italian Restaurant
+QUAKERS HILL,2763,-33.728356,150.881177,17,27077,adult,29,1.0,Fried Chicken Joint,Indian Restaurant,Pub,Australian Restaurant,Department Store,Yoga Studio,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant
+QUEENS PARK,2022,-33.903188,151.247205,37,3065,mid-age,49,3.0,Café,Japanese Restaurant,Yoga Studio,Egyptian Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+QUEENSCLIFF,2096,-33.784595,151.287817,14,3365,adult,29,3.0,Beach,Café,Italian Restaurant,Breakfast Spot,Burger Joint,Restaurant,Liquor Store,Coffee Shop,Park,Bar
+RABY,2566,-34.021071,150.81134699999998,4,5936,adult,29,1.0,Athletics & Sports,Yoga Studio,Egyptian Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Field
+RAMSGATE,2217,-33.984683000000004,151.139847,10,1113,mid-age,49,0.0,Café,Pizza Place,Pub,Bar,Thai Restaurant,Child Care Service,Greek Restaurant,Recreation Center,Grocery Store,Italian Restaurant
+RAMSGATE BEACH,2217,-33.981114,151.1483,10,1661,senior+,69,3.0,Café,Seafood Restaurant,Beach,Farmers Market,Gas Station,Yoga Studio,Electronics Store,Event Space,Falafel Restaurant,Farm
+RANDWICK,2031,-33.913164,151.24199299999998,28,29994,adult,29,3.0,Café,Thai Restaurant,Fast Food Restaurant,Supermarket,Gym,Pub,Moroccan Restaurant,Mexican Restaurant,Farmers Market,Sandwich Place
+REDFERN,2016,-33.892778,151.203901,7,13231,adult,29,3.0,Café,Bar,Park,Pizza Place,Art Gallery,Donut Shop,Bakery,Ramen Restaurant,Pub,Japanese Restaurant
+REGENTS PARK,2143,-33.883928000000004,151.023796,0,4911,adult,29,0.0,Pizza Place,Middle Eastern Restaurant,Vietnamese Restaurant,Sports Club,Train Station,Yoga Studio,Field,Electronics Store,Event Service,Event Space
+REGENTVILLE,2745,-33.773649,150.669102,13,810,mid-age,49,0.0,Furniture / Home Store,Arts & Crafts Store,Convenience Store,Pharmacy,Café,Electronics Store,Sporting Goods Shop,Flea Market,Fast Food Restaurant,Event Service
+REVESBY,2212,-33.951507,151.017247,4,14189,adult,29,0.0,Bakery,Café,Liquor Store,Japanese Restaurant,Italian Restaurant,Gym,Sandwich Place,Fast Food Restaurant,Grocery Store,Coffee Shop
+REVESBY HEIGHTS,2212,-33.968802000000004,151.015063,4,1662,mid-age,49,1.0,Business Service,Yoga Studio,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Field
+RHODES,2138,-33.830764,151.088105,4,11920,adult,29,3.0,Café,Park,Dim Sum Restaurant,Fast Food Restaurant,Japanese Restaurant,Sandwich Place,Gym,Chinese Restaurant,Italian Restaurant,Food Court
+RICHMOND,2753,-33.597753000000004,150.75288999999998,5,5499,adult,29,0.0,Café,Supermarket,Middle Eastern Restaurant,Fish & Chips Shop,Sandwich Place,Movie Theater,Discount Store,Pub,Sports Bar,Department Store
+RICHMOND LOWLANDS,2753,-33.568630999999996,150.757565,5,32,mid-age,49,,,,,,,,,,,
+RIVERSTONE,2765,-33.679382000000004,150.861595,7,7238,adult,29,0.0,Pizza Place,Shopping Mall,Bar,Café,Sandwich Place,Train Station,Seafood Restaurant,Fast Food Restaurant,Convenience Store,Fish & Chips Shop
+RIVERVIEW,2066,-33.825587,151.15993400000002,16,3340,young,9,2.0,Park,Gym,Harbor / Marina,Arcade,Yoga Studio,Fast Food Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant
+RIVERVIEW,2404,-29.904643,150.687307,0,3347,young,9,2.0,Park,Gym,Harbor / Marina,Arcade,Yoga Studio,Fast Food Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant
+RIVERWOOD,2210,-33.949859000000004,151.052469,21,12104,adult,29,0.0,Pizza Place,Coffee Shop,Train Station,Shopping Mall,Middle Eastern Restaurant,Fast Food Restaurant,Sandwich Place,Café,Lebanese Restaurant,Cantonese Restaurant
+ROCKDALE,2216,-33.952746999999995,151.137624,13,15521,adult,29,0.0,Fast Food Restaurant,Café,Coffee Shop,Pizza Place,Thai Restaurant,Middle Eastern Restaurant,Shopping Mall,Sporting Goods Shop,Bus Stop,Supermarket
+RODD POINT,2046,-33.868208,151.141652,14,1405,mid-age,49,3.0,Trail,Café,Pizza Place,Park,Yoga Studio,Fast Food Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant
+ROOKWOOD,2141,-33.866398,151.058147,7,8,senior+,69,3.0,Café,Bus Stop,Yoga Studio,Costume Shop,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+ROOTY HILL,2766,-33.77155,150.843922,7,14705,adult,29,0.0,Grocery Store,Platform,Burger Joint,Café,Chinese Restaurant,Filipino Restaurant,Bakery,Pizza Place,Fish Market,Farm
+ROPES CROSSING,2760,-33.77448,150.81084099999998,11,6172,adult,29,0.0,Convenience Store,Pub,Furniture / Home Store,Fast Food Restaurant,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+ROSE BAY,2029,-33.866555,151.28045600000002,11,10040,adult,29,1.0,Park,Pizza Place,Hungarian Restaurant,Deli / Bodega,Indian Restaurant,Seafood Restaurant,Thai Restaurant,Supermarket,Yoga Studio,Fast Food Restaurant
+ROSEBERY,2018,-33.920412,151.20310700000002,11,10119,adult,29,3.0,Café,Bakery,Souvlaki Shop,Italian Restaurant,Burger Joint,Furniture / Home Store,Dog Run,Australian Restaurant,Distillery,Food Service
+ROSEHILL,2142,-33.819992,151.024558,7,3795,adult,29,0.0,Train Station,Hotel,Platform,Recreation Center,Sandwich Place,Fast Food Restaurant,Bowling Green,Stadium,Supermarket,Gas Station
+ROSELANDS,2196,-33.933167,151.073197,5,11589,adult,29,0.0,Fast Food Restaurant,Modern European Restaurant,Pub,Bar,Furniture / Home Store,Big Box Store,Grocery Store,Record Shop,Bus Station,Paper / Office Supplies Store
+ROSEMEADOW,2560,-34.101795,150.800106,19,7835,adult,29,0.0,Shopping Mall,Pizza Place,Fast Food Restaurant,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+ROSEVILLE,2069,-33.784634999999994,151.177111,6,10088,mid-age,49,3.0,Café,Convenience Store,Train Station,Movie Theater,Fried Chicken Joint,Steakhouse,Liquor Store,Lebanese Restaurant,Bakery,Modern European Restaurant
+ROSEVILLE CHASE,2069,-33.778902,151.19519499999998,6,1610,mid-age,49,1.0,Lebanese Restaurant,Wine Shop,Mobile Phone Shop,Thai Restaurant,Golf Course,Gas Station,Fast Food Restaurant,Electronics Store,Event Service,Event Space
+ROSSMORE,2557,-33.945965,150.772763,5,2293,mid-age,49,1.0,Gas Station,Yoga Studio,Food Stand,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+ROUSE HILL,2155,-33.682068,150.91539699999998,25,7971,mid-age,49,0.0,Pizza Place,Fast Food Restaurant,Chinese Restaurant,Park,Café,Grocery Store,Supermarket,Yoga Studio,Event Service,Event Space
+ROZELLE,2039,-33.863063000000004,151.170573,5,8720,adult,29,3.0,Café,Pub,Vegetarian / Vegan Restaurant,Bakery,Pizza Place,Seafood Restaurant,Sushi Restaurant,Bar,Flea Market,Fruit & Vegetable Store
+RUSE,2560,-34.069283,150.844069,19,5585,adult,29,0.0,Convenience Store,Pub,Grocery Store,Liquor Store,Bakery,Flea Market,Fishing Store,Electronics Store,Food & Drink Shop,Event Service
+RUSHCUTTERS BAY,2011,-33.87624,151.228614,30,2545,adult,29,3.0,Café,Italian Restaurant,Japanese Restaurant,Mexican Restaurant,Deli / Bodega,Coffee Shop,Park,Dumpling Restaurant,Bus Station,Sushi Restaurant
+RUSSELL LEA,2046,-33.86072,151.140711,14,4999,mid-age,49,1.0,Italian Restaurant,Park,Thai Restaurant,Pizza Place,Soccer Field,Yoga Studio,Electronics Store,Event Service,Event Space,Falafel Restaurant
+RYDALMERE,2116,-33.811244,151.03446399999999,4,6657,mid-age,49,0.0,Electronics Store,Shipping Store,Café,Home Service,Train Station,Bus Stop,Fast Food Restaurant,Event Service,Event Space,Falafel Restaurant
+RYDE,2112,-33.812953,151.104942,11,26507,adult,29,0.0,Café,Supermarket,Coffee Shop,Korean Restaurant,Fried Chicken Joint,Department Store,Pizza Place,Electronics Store,Pub,Sandwich Place
+SACKVILLE,2756,-33.502935,150.875982,12,294,mid-age,49,1.0,Boat or Ferry,Australian Restaurant,Yoga Studio,Film Studio,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+SACKVILLE NORTH,2756,-33.489441,150.926902,12,316,mid-age,49,,,,,,,,,,,
+SADLEIR,2168,-33.920629,150.89021200000002,13,3137,young,9,1.0,Music Venue,Film Studio,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Field,Filipino Restaurant
+SANDRINGHAM,2219,-33.998763000000004,151.139252,7,1236,mid-age,49,3.0,Café,Beach,Sports Bar,Yoga Studio,Filipino Restaurant,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+SANDY POINT,2172,-33.975419,150.993967,1,591,mid-age,49,,,,,,,,,,,
+SANS SOUCI,2219,-33.990614,151.133074,7,10296,mid-age,49,3.0,Café,Convenience Store,Chinese Restaurant,Fast Food Restaurant,Supermarket,Pizza Place,Flea Market,Food & Drink Shop,Event Service,Event Space
+SCHEYVILLE,2756,-33.610690000000005,150.88031,12,3,mid-age,49,,,,,,,,,,,
+SCHOFIELDS,2762,-33.697216999999995,150.888428,0,4977,adult,29,,,,,,,,,,,
+SCOTLAND ISLAND,2105,-33.641752000000004,151.29011599999998,0,582,mid-age,49,1.0,Boat or Ferry,Harbor / Marina,Playground,Pier,National Park,Field,Event Service,Event Space,Falafel Restaurant,Farm
+SEAFORTH,2092,-33.797106,151.251146,8,7133,mid-age,49,3.0,Café,Indian Restaurant,Thai Restaurant,Wine Shop,Bakery,Shopping Mall,Other Nightlife,Coffee Shop,Trail,Bus Station
+SEFTON,2162,-33.885501,151.011469,5,5812,adult,29,1.0,Middle Eastern Restaurant,Pharmacy,Train Station,Market,Yoga Studio,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm
+SEVEN HILLS,2147,-33.775477,150.934257,12,19308,adult,29,0.0,Fast Food Restaurant,Construction & Landscaping,Indian Restaurant,Gym,Supermarket,Shopping Mall,Coffee Shop,Buffet,Sports Bar,Platform
+SHALVEY,2770,-33.729372999999995,150.808375,12,3462,adult,29,1.0,Gas Station,Bakery,Food Stand,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Field
+SHANES PARK,2747,-33.711304999999996,150.783287,50,404,mid-age,49,,,,,,,,,,,
+SILVERWATER,2128,-33.835928,151.04759099999998,1,4159,adult,29,3.0,Café,Electronics Store,Sandwich Place,Furniture / Home Store,Fast Food Restaurant,Field,Event Service,Event Space,Falafel Restaurant,Farm
+SILVERWATER,2264,-33.101384,151.56198999999998,5,297,senior+,69,3.0,Café,Electronics Store,Sandwich Place,Furniture / Home Store,Fast Food Restaurant,Field,Event Service,Event Space,Falafel Restaurant,Farm
+SINGLETONS MILL,2775,-33.463598,151.07593799999998,0,3,adult,29,,,,,,,,,,,
+SMEATON GRANGE,2567,-34.039103999999995,150.756685,19,8,adult,29,1.0,Gym / Fitness Center,Yoga Studio,Eastern European Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+SMITHFIELD,2164,-33.853546,150.94043100000002,4,11977,adult,29,0.0,Fast Food Restaurant,Portuguese Restaurant,Sandwich Place,Italian Restaurant,Supermarket,Museum,Turkish Restaurant,Park,Middle Eastern Restaurant,Sports Bar
+SOUTH HURSTVILLE,2221,-33.977595,151.10490900000002,2,5135,adult,29,0.0,Pub,Convenience Store,Electronics Store,Grocery Store,Falafel Restaurant,Farmers Market,Fast Food Restaurant,Thai Restaurant,Fried Chicken Joint,Bakery
+SOUTH MAROOTA,2756,-33.52308,150.948575,12,547,mid-age,49,,,,,,,,,,,
+SOUTH PENRITH,2750,-33.767176,150.70383700000002,27,11785,adult,29,0.0,Food,Pub,Pharmacy,Fast Food Restaurant,Yoga Studio,Field,Egyptian Restaurant,Electronics Store,Event Service,Event Space
+SOUTH TURRAMURRA,2074,-33.746027000000005,151.113441,14,3083,mid-age,49,3.0,Playground,Bakery,Café,Coffee Shop,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+SOUTH WENTWORTHVILLE,2145,-33.823892,150.969376,42,6212,adult,29,2.0,Park,Train Station,Health & Beauty Service,Yoga Studio,Dumpling Restaurant,Egyptian Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant
+SOUTH WINDSOR,2756,-33.620168,150.804452,12,5887,adult,29,0.0,Dog Run,Sports Club,Gym Pool,Shopping Mall,Fast Food Restaurant,Yoga Studio,Field,Event Service,Event Space,Falafel Restaurant
+SPRING FARM,2570,-34.070246999999995,150.727716,16,4295,adult,29,0.0,Supermarket,Shopping Mall,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+ST CLAIR,2330,-32.341363,151.294669,3,6,mid-age,49,0.0,Fast Food Restaurant,Convenience Store,Shopping Mall,Sandwich Place,Chinese Restaurant,Supermarket,Soccer Field,Café,Fishing Store,Film Studio
+ST CLAIR,2759,-33.794362,150.79026100000002,10,19894,adult,29,0.0,Fast Food Restaurant,Convenience Store,Shopping Mall,Sandwich Place,Chinese Restaurant,Supermarket,Soccer Field,Café,Fishing Store,Film Studio
+ST HELENS PARK,2560,-34.112264,150.798121,19,6609,adult,29,1.0,Rugby Pitch,Massage Studio,Baseball Field,Home Service,Bus Station,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+ST IVES,2075,-33.730601,151.158551,14,17295,mid-age,49,3.0,Café,Bakery,Park,Thai Restaurant,Grocery Store,Supermarket,Sandwich Place,Japanese Restaurant,Italian Restaurant,Fast Food Restaurant
+ST IVES CHASE,2075,-33.707895,151.163446,14,3163,mid-age,49,,,,,,,,,,,
+ST JOHNS PARK,2176,-33.885824,150.905403,18,6120,senior+,69,2.0,Park,Photography Studio,Yoga Studio,Field,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+ST LEONARDS,2065,-33.823248,151.195504,22,5488,adult,29,3.0,Café,Coffee Shop,Asian Restaurant,Gym,Vietnamese Restaurant,Chinese Restaurant,Spa,Souvlaki Shop,Restaurant,Lebanese Restaurant
+ST MARYS,2760,-33.76676,150.774015,11,12197,adult,29,0.0,Supermarket,Pizza Place,Pharmacy,Shopping Mall,Thai Restaurant,Bus Station,Department Store,Fast Food Restaurant,Sports Bar,Pub
+ST PETERS,2044,-33.911062,151.180126,8,3143,adult,29,3.0,Café,Fast Food Restaurant,Hotel,Pub,Park,Art Gallery,Greek Restaurant,Fish & Chips Shop,Egyptian Restaurant,Electronics Store
+STANHOPE GARDENS,2768,-33.711215,150.933621,3,9171,adult,29,1.0,Train Station,Bus Stop,Yoga Studio,Egyptian Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+STANMORE,2048,-33.897351,151.16535,2,7950,adult,29,3.0,Café,Convenience Store,Pub,Park,Field,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+STRATHFIELD,2135,-33.873913,151.09399299999998,13,25803,adult,29,0.0,Korean Restaurant,Café,Thai Restaurant,Fried Chicken Joint,Vietnamese Restaurant,Pharmacy,Sports Bar,BBQ Joint,Bakery,Supermarket
+STRATHFIELD SOUTH,2136,-33.891711,151.082992,0,3542,adult,29,1.0,Bowling Alley,Hotel,Chinese Restaurant,Asian Restaurant,Park,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm
+SUMMER HILL,2130,-33.891712,151.137258,3,7315,adult,29,3.0,Café,Pizza Place,Farmers Market,Coffee Shop,Playground,Train Station,Burger Joint,Liquor Store,Betting Shop,Bar
+SUMMER HILL,2287,-32.478428,151.519413,17,7315,adult,29,3.0,Café,Pizza Place,Farmers Market,Coffee Shop,Playground,Train Station,Burger Joint,Liquor Store,Betting Shop,Bar
+SURRY HILLS,2010,-33.888821,151.213328,30,16408,adult,29,3.0,Café,Japanese Restaurant,Pub,Coffee Shop,Lebanese Restaurant,Pakistani Restaurant,Greek Restaurant,Breakfast Spot,Bakery,Indian Restaurant
+SUTHERLAND,2232,-34.031432,151.057965,18,10818,adult,29,0.0,Café,Thai Restaurant,Convenience Store,Sandwich Place,Pub,Farmers Market,Gym,Gastropub,Ramen Restaurant,Thrift / Vintage Store
+SYDENHAM,2044,-33.915222,151.166104,8,1149,adult,29,0.0,Café,Soccer Field,Dog Run,Fast Food Restaurant,Gym,Grocery Store,Fish Market,Coffee Shop,Beer Store,Speakeasy
+SYLVANIA,2224,-34.008075,151.105104,7,10489,senior+,69,0.0,Café,Supermarket,Bowling Alley,Bus Stop,Bakery,Breakfast Spot,Liquor Store,Farmers Market,Gym,Sandwich Place
+SYLVANIA WATERS,2224,-34.019802,151.115847,7,3159,mid-age,49,3.0,Café,Bowling Green,Pier,Flower Shop,Athletics & Sports,Burger Joint,Film Studio,Falafel Restaurant,Farm,Farmers Market
+TAMARAMA,2026,-33.897439,151.271839,113,1627,adult,29,3.0,Café,Italian Restaurant,Australian Restaurant,Beach,Scenic Lookout,Restaurant,Beach Bar,Bakery,Tapas Restaurant,Pub
+TAREN POINT,2229,-34.012545,151.125456,15,1732,senior+,69,1.0,National Park,Nature Preserve,Yoga Studio,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Field
+TELOPEA,2117,-33.795986,151.045106,6,5426,adult,29,1.0,Library,Grocery Store,Train Station,Gas Station,Eastern European Restaurant,Egyptian Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant
+TEMPE,2044,-33.924777,151.160747,8,3548,adult,29,1.0,Food Truck,Gas Station,Golf Course,Train Station,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+TENNYSON,2754,-33.536388,150.736946,3,385,senior+,69,,,,,,,,,,,
+TENNYSON POINT,2111,-33.831447999999995,151.117286,12,1227,mid-age,49,2.0,Gift Shop,Cafeteria,Park,Yoga Studio,Egyptian Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+TERREY HILLS,2084,-33.683644,151.22847,3,3034,mid-age,49,0.0,Japanese Restaurant,Flower Shop,German Restaurant,Grocery Store,Restaurant,Café,Fast Food Restaurant,Park,Italian Restaurant,Yoga Studio
+THE PONDS,2769,-34.054326,150.753104,4,11715,adult,29,2.0,Lake,Park,Yoga Studio,Field,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+THE ROCKS,2000,-33.859251,151.208782,18,773,adult,29,1.0,Café,Hotel,Australian Restaurant,Cocktail Bar,Pub,Scenic Lookout,Brewery,Museum,Italian Restaurant,Ice Cream Shop
+THE SLOPES,2754,-33.532102,150.708405,3,344,mid-age,49,,,,,,,,,,,
+THORNLEIGH,2120,-33.730816,151.08122600000002,13,8461,mid-age,49,3.0,Café,Chinese Restaurant,Pizza Place,Hotel,Asian Restaurant,Post Office,Coffee Shop,Newsstand,Fast Food Restaurant,Shopping Mall
+TOONGABBIE,2146,-33.788942,150.95064399999998,0,14345,adult,29,0.0,Convenience Store,Indian Restaurant,Café,Shopping Mall,Sri Lankan Restaurant,Bakery,Fishing Store,Fast Food Restaurant,Event Service,Event Space
+TREGEAR,2770,-33.751082000000004,150.795678,12,3885,adult,29,,,,,,,,,,,
+TURRAMURRA,2074,-33.733244,151.129809,14,11926,mid-age,49,0.0,Café,Pizza Place,Liquor Store,Bakery,Grocery Store,Convenience Store,Pharmacy,Persian Restaurant,Music Store,Seafood Restaurant
+TURRELLA,2205,-33.929963,151.14064299999998,8,2522,adult,29,1.0,Platform,Train Station,Bus Station,Park,Yoga Studio,Fast Food Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant
+ULTIMO,2007,-33.878415999999994,151.197272,9,8831,adult,29,3.0,Café,Coffee Shop,Park,Pool,Museum,Japanese Restaurant,Australian Restaurant,Italian Restaurant,Pub,Theater
+VARROVILLE,2566,-34.010255,150.822979,4,106,senior+,69,1.0,Soccer Field,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+VAUCLUSE,2030,-33.859047,151.278434,19,9335,mid-age,49,1.0,Park,Bakery,Lighthouse,Bay,Sushi Restaurant,Intersection,Yoga Studio,Field,Event Space,Falafel Restaurant
+VILLAWOOD,2163,-33.883679,150.97646799999998,7,6026,adult,29,0.0,Fast Food Restaurant,Grocery Store,Train Station,Liquor Store,Supermarket,Yoga Studio,Electronics Store,Event Service,Event Space,Falafel Restaurant
+VOYAGER POINT,2172,-33.964546999999996,150.97238000000002,1,1674,mid-age,49,1.0,Athletics & Sports,Yoga Studio,Egyptian Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant,Field
+WAHROONGA,2076,-33.716405,151.118119,11,17367,mid-age,49,0.0,Coffee Shop,Café,Grocery Store,Convenience Store,Bakery,Thai Restaurant,Chinese Restaurant,Australian Restaurant,Train Station,Park
+WAITARA,2077,-33.709540999999994,151.104136,22,5944,adult,29,0.0,Turkish Restaurant,Indian Restaurant,Fast Food Restaurant,Rental Car Location,Pub,Park,Sports Club,Sports Bar,BBQ Joint,Thai Restaurant
+WAKELEY,2176,-33.873965999999996,150.90888,18,4750,adult,29,0.0,Burger Joint,Convenience Store,Grocery Store,Yoga Studio,Field,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+WALLACIA,2745,-33.865179,150.64041799999998,13,1627,mid-age,49,1.0,Campground,Health & Beauty Service,Hotel Bar,Lake,Rest Area,Burger Joint,Electronics Store,Event Service,Event Space,Falafel Restaurant
+WAREEMBA,2046,-33.856828,151.130728,14,1555,mid-age,49,3.0,Thai Restaurant,Grocery Store,Hobby Shop,Café,Liquor Store,Burger Joint,Italian Restaurant,Field,Event Service,Event Space
+WARRAWEE,2074,-33.722839,151.126134,14,2982,mid-age,49,2.0,Athletics & Sports,Train Station,Park,Yoga Studio,Eastern European Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+WARRIEWOOD,2102,-33.686265,151.29908,7,7497,mid-age,49,1.0,Health Food Store,Home Service,Skate Park,Trail,Field,Egyptian Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant
+WARWICK FARM,2170,-33.913423,150.932752,22,5867,adult,29,0.0,Football Stadium,Platform,Fast Food Restaurant,Yoga Studio,Film Studio,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+WATERFALL,2233,-34.1352,150.994957,13,483,mid-age,49,0.0,Platform,Fast Food Restaurant,Trail,Train Station,Yoga Studio,Egyptian Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant
+WATERLOO,2017,-33.9004,151.206144,11,14619,adult,29,3.0,Café,Park,Bus Station,Japanese Restaurant,Gym,Grocery Store,Clothing Store,Pub,Fast Food Restaurant,Auto Workshop
+WATSONS BAY,2030,-33.844806,151.282368,19,853,mid-age,49,1.0,Scenic Lookout,Beach,Café,Seafood Restaurant,Pier,Surf Spot,Beer Garden,Pub,Bus Station,Park
+WATTLE GROVE,2173,-33.963316,150.936403,1,8960,adult,29,3.0,Lake,Mountain,Café,Park,Yoga Studio,Field,Event Service,Event Space,Falafel Restaurant,Farm
+WAVERLEY,2024,-33.897954999999996,151.252059,17,4349,adult,29,3.0,Pizza Place,Café,Souvlaki Shop,Indian Restaurant,Italian Restaurant,Park,Noodle House,Pub,Diner,Fish & Chips Shop
+WAVERTON,2060,-33.839969,151.195808,11,3010,adult,29,3.0,Café,Scenic Lookout,Thai Restaurant,Wine Shop,Bowling Green,Port,Indian Restaurant,Grocery Store,Park,Farm
+WEDDERBURN,2560,-34.127555,150.812698,19,627,mid-age,49,,,,,,,,,,,
+WENTWORTHVILLE,2145,-33.805921999999995,150.97018300000002,42,11325,adult,29,0.0,Platform,Indian Restaurant,Thai Restaurant,Gourmet Shop,Grocery Store,Sandwich Place,Train Station,Martial Arts Dojo,Bakery,Pizza Place
+WERRINGTON,2747,-33.757725,150.739982,50,4028,adult,29,1.0,Playground,Lake,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+WERRINGTON COUNTY,2747,-33.747939,150.751155,50,3642,adult,29,1.0,Shopping Plaza,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+WERRINGTON DOWNS,2747,-33.740586,150.733755,50,3240,adult,29,2.0,Park,Yoga Studio,Eastern European Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+WEST HOXTON,2171,-33.922272,150.839967,12,10015,mid-age,49,,,,,,,,,,,
+WEST PENNANT HILLS,2125,-33.753676,151.039113,14,16367,mid-age,49,,,,,,,,,,,
+WEST PYMBLE,2073,-33.760383000000004,151.126038,6,5305,mid-age,49,3.0,Italian Restaurant,Brewery,Grocery Store,Café,Shopping Mall,Liquor Store,Yoga Studio,Event Space,Falafel Restaurant,Farm
+WEST RYDE,2114,-33.807712,151.08872399999998,12,13397,adult,29,0.0,Japanese Restaurant,Café,Pharmacy,Korean Restaurant,Thai Restaurant,Supermarket,Convenience Store,Pizza Place,Liquor Store,Shopping Mall
+WESTLEIGH,2120,-33.711956,151.07283600000002,13,4463,mid-age,49,,,,,,,,,,,
+WESTMEAD,2145,-33.805332,150.98660800000002,42,16306,adult,29,0.0,Coffee Shop,Fast Food Restaurant,Thai Restaurant,Café,Sandwich Place,Bus Stop,Yoga Studio,Event Service,Event Space,Falafel Restaurant
+WETHERILL PARK,2164,-33.847512,150.913204,4,6147,adult,29,0.0,Burger Joint,Thai Restaurant,Pizza Place,Chinese Restaurant,Filipino Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+WHALAN,2770,-33.760165,150.809528,12,5962,adult,29,,,,,,,,,,,
+WHALE BEACH,2107,-33.614274,151.330438,6,248,senior+,69,3.0,Café,Bay,Dog Run,Beach,Yoga Studio,Filipino Restaurant,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+WHEELER HEIGHTS,2097,-33.732476,151.277439,13,2997,mid-age,49,1.0,Gas Station,Food & Drink Shop,Gourmet Shop,Antique Shop,Yoga Studio,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+WILBERFORCE,2756,-33.558178999999996,150.847506,12,3001,mid-age,49,0.0,Gym,Indian Restaurant,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+WILEY PARK,2195,-33.922464,151.068194,5,10127,adult,29,0.0,Fast Food Restaurant,Café,Middle Eastern Restaurant,Train Station,Paper / Office Supplies Store,Yoga Studio,Field,Event Service,Event Space,Falafel Restaurant
+WILLMOT,2770,-33.727621,150.79156899999998,12,2445,young,9,2.0,Convenience Store,Park,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+WILLOUGHBY,2068,-33.801483000000005,151.1986,15,6542,mid-age,49,3.0,Café,Food & Drink Shop,Pizza Place,Liquor Store,Furniture / Home Store,Arts & Crafts Store,Yoga Studio,Field,Event Space,Falafel Restaurant
+WILLOUGHBY EAST,2068,-33.802534,151.203505,15,1818,mid-age,49,3.0,Café,Food & Drink Shop,Liquor Store,Furniture / Home Store,Yoga Studio,Filipino Restaurant,Event Space,Falafel Restaurant,Farm,Farmers Market
+WINDSOR,2756,-33.608814,150.81748100000002,12,1900,mid-age,49,3.0,Café,Park,Flea Market,Pizza Place,Sandwich Place,Grocery Store,Fried Chicken Joint,Yoga Studio,Electronics Store,Event Service
+WINDSOR DOWNS,2756,-33.667695,150.803079,12,1183,mid-age,49,0.0,Pet Store,Yoga Studio,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+WINSTON HILLS,2153,-33.776053999999995,150.987795,15,11694,mid-age,49,3.0,Playground,Food & Drink Shop,Café,Shopping Mall,Field,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+WISEMANS FERRY,2775,-33.408879,150.980048,0,229,mid-age,49,,,,,,,,,,,
+WOLLI CREEK,2205,-33.930744,151.155272,8,6387,adult,29,0.0,Bakery,Café,Train Station,Intersection,Motel,Liquor Store,Supermarket,Sushi Restaurant,Taiwanese Restaurant,Dumpling Restaurant
+WOLLSTONECRAFT,2065,-33.828158,151.196621,22,8323,adult,29,3.0,Café,Japanese Restaurant,Coffee Shop,South Indian Restaurant,Indian Restaurant,Thai Restaurant,Noodle House,Italian Restaurant,BBQ Joint,Office
+WOODBINE,2560,-34.049892,150.818872,19,2750,adult,29,0.0,Sandwich Place,Yoga Studio,Cosmetics Shop,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+WOODCROFT,2767,-33.754985999999995,150.879666,11,6448,adult,29,0.0,Lake,Sandwich Place,Yoga Studio,Eastern European Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+WOODPARK,2164,-33.84063,150.961859,4,1519,adult,29,3.0,Bakery,Convenience Store,Café,Bus Station,Yoga Studio,Filipino Restaurant,Event Space,Falafel Restaurant,Farm,Farmers Market
+WOOLLAHRA,2025,-33.885795,151.24413,16,7414,adult,29,3.0,Italian Restaurant,Café,Australian Restaurant,Park,Egyptian Restaurant,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+WOOLLOOMOOLOO,2011,-33.869283,151.220412,30,4014,adult,29,1.0,Australian Restaurant,Café,Hotel,Italian Restaurant,Pub,Chinese Restaurant,Trail,Art Gallery,Harbor / Marina,Park
+WOOLOOWARE,2230,-34.048276,151.141431,25,3967,mid-age,49,1.0,Cupcake Shop,Business Service,Fruit & Vegetable Store,Beach,Train Station,Burger Joint,Yoga Studio,Filipino Restaurant,Falafel Restaurant,Farm
+WOOLWICH,2110,-33.838392999999996,151.172535,10,814,senior+,69,1.0,Harbor / Marina,Park,Pier,Café,Australian Restaurant,Bar,Italian Restaurant,Yoga Studio,Event Service,Event Space
+WORONORA,2232,-34.020654,151.047946,18,2193,mid-age,49,1.0,Lawyer,Gym / Fitness Center,Burger Joint,Scenic Lookout,Park,Farmers Market,Egyptian Restaurant,Electronics Store,Event Service,Event Space
+WORONORA HEIGHTS,2233,-34.034836,151.027656,13,2870,mid-age,49,1.0,Grocery Store,Soccer Field,Arcade,Filipino Restaurant,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm,Farmers Market
+YAGOONA,2199,-33.907725,151.026108,11,18014,adult,29,0.0,Bakery,ATM,Gas Station,Convenience Store,Fast Food Restaurant,Burger Joint,Event Space,Falafel Restaurant,Farm,Farmers Market
+YARRAMUNDI,2753,-33.627259,150.672695,5,828,mid-age,49,,,,,,,,,,,
+YARRAWARRAH,2233,-34.058462,151.03278999999998,13,2726,mid-age,49,2.0,Pizza Place,Pharmacy,Park,Yoga Studio,Field,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+YENNORA,2161,-33.860889,150.969356,8,1616,senior+,69,0.0,Platform,Pharmacy,Train Station,Yoga Studio,Field,Electronics Store,Event Service,Event Space,Falafel Restaurant,Farm
+YOWIE BAY,2228,-34.049865999999994,151.104325,6,3095,mid-age,49,0.0,Brewery,Liquor Store,Coffee Shop,Yoga Studio,Film Studio,Event Space,Falafel Restaurant,Farm,Farmers Market,Fast Food Restaurant
+ZETLAND,2017,-33.909938000000004,151.206234,11,10071,adult,29,3.0,Café,Coffee Shop,Thai Restaurant,Bakery,Pet Store,Department Store,Supermarket,Electronics Store,Italian Restaurant,Japanese Restaurant

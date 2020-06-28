@@ -1,0 +1,668 @@
+suburb,postcode,population,age
+abbotsbury,2176,4242,40 to 59
+abbotsford,2046,5366,40 to 59
+acacia-gardens,2763,3786,20 to 39
+agnes-banks,2753,919,40 to 59
+airds,2560,2939,5 to 19
+alexandria,2015,8266,20 to 39
+alfords-point,2234,3093,40 to 59
+allambie-heights,2100,7001,40 to 59
+allawah,2218,5729,20 to 39
+ambarvale,2560,7358,20 to 39
+annandale,2038,9459,20 to 39
+annangrove,2156,1403,40 to 59
+arcadia,2159,1373,40 to 59
+arncliffe,2205,10593,20 to 39
+arndell-park,2148,30,20 to 39
+artarmon,2064,9527,20 to 39
+ashbury,2193,3343,40 to 59
+ashcroft,2168,3584,20 to 39
+ashfield,2131,23832,20 to 39
+asquith,2077,3366,40 to 59
+auburn,2144,37373,20 to 39
+austral,2179,3033,60+
+avalon-beach,2107,9906,40 to 59
+badgerys-creek,2555,233,20 to 39
+balgowlah,2093,7980,40 to 59
+balgowlah-heights,2093,3350,40 to 59
+balmain,2041,10456,40 to 59
+balmain-east,2041,1934,40 to 59
+bangor,2234,5575,40 to 59
+banksia,2216,3380,20 to 39
+banksmeadow,2019,18,60+
+bankstown,2200,32116,20 to 39
+bankstown-aerodrome,2200,32116,20 to 39
+barden-ridge,2234,4312,40 to 59
+bardwell-park,2207,2241,40 to 59
+bardwell-valley,2207,2328,40 to 59
+bass-hill,2197,9071,20 to 39
+baulkham-hills,2153,37045,40 to 59
+bayview,2104,3624,60+
+beacon-hill,2100,7451,40 to 59
+beaconsfield,2015,978,20 to 39
+beaumont-hills,2155,9052,40 to 59
+beecroft,2119,9392,40 to 59
+belfield,2191,6318,40 to 59
+bella-vista,2153,7823,40 to 59
+bellevue-hill,2023,10709,20 to 39
+belmore,2192,12720,20 to 39
+belrose,2085,8781,60+
+berala,2141,9026,20 to 39
+berkshire-park,2765,2138,20 to 39
+berowra,2081,4727,40 to 59
+berowra-heights,2082,5272,40 to 59
+berowra-waters,2082,135,60+
+berrilee,2159,236,40 to 59
+beverley-park,2217,2392,40 to 59
+beverly-hills,2209,10167,20 to 39
+bexley,2207,19722,20 to 39
+bexley-north,2207,4096,40 to 59
+bickley-vale,2570,NA,NA
+bidwill,2770,4281,5 to 19
+birchgrove,2041,3302,40 to 59
+birrong,2143,3109,20 to 39
+blackett,2770,3452,20 to 39
+blacktown,2148,47175,20 to 39
+blair athol,2560,2886,20 to 39
+blairmount,2559,422,20 to 39
+blakehurst,2221,6213,40 to 59
+bligh-park,2756,6362,20 to 39
+bondi,2026,10043,20 to 39
+bondi-beach,2026,11659,20 to 39
+bondi-junction,2022,9464,20 to 39
+bonnet-bay,2226,2266,40 to 59
+bonnyrigg,2177,8670,20 to 39
+bonnyrigg-heights,2177,7310,40 to 59
+bossley-park,2176,14594,40 to 59
+botany,2019,10823,20 to 39
+bow-bowing,2566,1590,40 to 59
+box-hill,2765,905,60+
+bradbury,2560,8798,20 to 39
+breakfast-point,2137,4208,20 to 39
+bringelly,2556,2511,40 to 59
+bronte,2024,6718,20 to 39
+brooklyn,2083,715,40 to 59
+brookvale,2100,3176,20 to 39
+bundeena,2230,1918,40 to 59
+burraneer,2230,NA,NA
+burwood,2134,16011,20 to 39
+burwood-heights,2136,989,20 to 39
+busby,2168,4306,20 to 39
+cabarita,2137,1973,60+
+cabramatta,2166,21803,20 to 39
+cabramatta-west,2166,7237,40 to 59
+cambridge-gardens,2747,2029,20 to 39
+cambridge-park,2747,6716,20 to 39
+camden,2570,3221,60+
+camden-south,2570,4524,20 to 39
+camellia,2142,NA,60+
+cammeray,2062,7017,20 to 39
+campbelltown,2560,12561,20 to 39
+camperdown,2050,10352,20 to 39
+campsie,2194,24539,20 to 39
+canada-bay,2046,1255,40 to 59
+canley-heights,2166,10971,40 to 59
+canley-vale,2166,10214,20 to 39
+canoelands,2157,179,40 to 59
+canterbury,2193,7240,20 to 39
+caringbah,2229,11672,20 to 39
+carlingford,2118,24401,40 to 59
+carlton,2218,10731,20 to 39
+carramar,2163,3547,20 to 39
+carss-park,2221,1259,40 to 59
+cartwright,2168,2386,40 to 59
+castle-cove,2069,2552,40 to 59
+castle-hill,2154,39610,40 to 59
+castlecrag,2068,2944,40 to 59
+castlereagh,2749,1164,40 to 59
+casula,2170,15667,20 to 39
+catherine-field,2557,1669,40 to 59
+cattai,2756,801,40 to 59
+cawdor,2570,432,40 to 59
+cecil-hills,2171,7021,40 to 59
+cecil-park,2178,769,40 to 59
+chatswood,2067,24900,20 to 39
+chatswood-west,2067,1492,40 to 59
+cheltenham,2119,2249,40 to 59
+cherrybrook,2126,18764,40 to 59
+chester-hill,2162,12823,20 to 39
+chifley,2036,3225,40 to 59
+chippendale,2008,8615,20 to 39
+chipping-norton,2170,8988,20 to 39
+chiswick,2046,2927,20 to 39
+chullora,2190,NA,60+
+church-point,2105,983,60+
+claremont-meadows,2747,4782,20 to 39
+clarendon,2756,110,40 to 59
+clareville,2107,753,60+
+claymore,2559,2651,5 to 19
+clemton-park,2206,1655,60+
+clontarf,2093,1742,40 to 59
+clovelly,2031,4752,20 to 39
+clyde,2142,3,20 to 39
+coasters-retreat,2108,43,60+
+cobbitty,2570,2062,40 to 59
+colebee,2761,1928,20 to 39
+collaroy,2097,7860,20 to 39
+colyton,2760,8445,20 to 39
+como,2226,3984,40 to 59
+concord,2137,14531,40 to 59
+concord-west,2138,5910,40 to 59
+condell-park,2200,11564,20 to 39
+connells-point,2221,2816,40 to 59
+coogee,2034,15219,20 to 39
+cornwallis,2756,51,40 to 59
+cottage-point,2084,105,60+
+cowan,2081,647,40 to 59
+cranebrook,2749,15758,20 to 39
+cremorne,2090,11229,20 to 39
+cremorne-point,2090,2409,40 to 59
+cromer,2099,7584,40 to 59
+cronulla,2230,18083,20 to 39
+crows-nest,2065,4802,20 to 39
+croydon,2132,10608,40 to 59
+croydon-park,2133,11017,40 to 59
+cumberland-reach,2756,182,40 to 59
+curl-curl,2096,2419,40 to 59
+currans-hill,2567,5291,20 to 39
+currawong-beach,2108,NA,NA
+daceyville,2032,1204,60+
+dangar-island,2083,310,40 to 59
+darling-point,2027,4192,60+
+darlinghurst,2010,11322,20 to 39
+darlington,2008,3092,20 to 39
+darlington,2330,374,20 to 39
+davidson,2085,2841,40 to 59
+dawes-point,2000,359,40 to 59
+dean-park,2761,3226,20 to 39
+dee-why,2099,21518,20 to 39
+denham-court,2565,1982,20 to 39
+denistone,2114,3750,40 to 59
+denistone-east,2112,2246,40 to 59
+denistone-west,2114,935,40 to 59
+dharruk,2770,2765,20 to 39
+dolans-bay,2229,602,40 to 59
+dolls-point,2219,1658,40 to 59
+doonside,2767,13461,20 to 39
+double-bay,2028,4636,20 to 39
+dover-heights,2030,3799,40 to 59
+drummoyne,2047,11941,20 to 39
+duffys-forest,2084,474,40 to 59
+dulwich-hill,2203,13712,20 to 39
+dundas,2117,4729,20 to 39
+dundas-valley,2117,5402,20 to 39
+dural,2158,7560,40 to 59
+dural,2330,NA,60+
+eagle-vale,2558,5794,20 to 39
+earlwood,2206,17744,40 to 59
+east-hills,2213,3205,40 to 59
+east-killara,2071,2979,40 to 59
+east-kurrajong,2758,2202,40 to 59
+east-lindfield,2070,3731,40 to 59
+east-ryde,2113,2440,40 to 59
+eastern-creek,2766,824,20 to 39
+eastgardens,2036,858,60+
+eastlakes,2018,6922,20 to 39
+eastwood,2122,17852,20 to 39
+ebenezer,2756,984,40 to 59
+edensor-park,2176,9764,40 to 59
+edgecliff,2027,2576,20 to 39
+elanora-heights,2101,4353,40 to 59
+elderslie,2335,112,40 to 59
+elderslie,2570,6020,20 to 39
+elizabeth-bay,2011,5218,20 to 39
+ellis-lane,2570,837,40 to 59
+elvina-bay,2105,79,40 to 59
+emerton,2770,2251,20 to 39
+emu-heights,2750,3282,40 to 59
+emu-plains,2750,8411,60+
+enfield,2136,2825,20 to 39
+engadine,2233,17373,40 to 59
+englorie-park,2560,417,20 to 39
+enmore,2042,3886,20 to 39
+enmore,2350,51,60+
+enmore,2358,NA,NA
+epping,2121,23692,20 to 39
+ermington,2115,10735,20 to 39
+erskine-park,2759,6443,40 to 59
+erskineville,2043,8001,20 to 39
+eschol-park,2558,2565,20 to 39
+eveleigh,2015,667,20 to 39
+fairfield,2165,18078,20 to 39
+fairfield-east,2165,5273,20 to 39
+fairfield-heights,2165,7524,20 to 39
+fairfield-west,2165,11561,20 to 39
+fairlight,2094,5839,20 to 39
+fiddletown,2159,241,40 to 59
+five-dock,2046,9362,40 to 59
+forest-glen,2157,69,60+
+forest-lodge,2037,4584,20 to 39
+forestville,2087,8323,40 to 59
+freemans-reach,2756,1969,40 to 59
+frenchs-forest,2086,13481,40 to 59
+galston,2159,3143,40 to 59
+georges-hall,2198,9041,20 to 39
+gilead,2560,413,60+
+girraween,2145,5577,20 to 39
+gladesville,2111,11825,40 to 59
+glebe,2037,11537,20 to 39
+glen-alpine,2560,4566,40 to 59
+glendenning,2761,5135,20 to 39
+glenfield,2167,9639,20 to 39
+glenhaven,2156,6501,60+
+glenmore-park,2745,23005,20 to 39
+glenorie,2157,3497,40 to 59
+glenwood,2768,16135,40 to 59
+glossodia,2756,2815,20 to 39
+gordon,2072,7679,40 to 59
+granville,2142,15332,20 to 39
+grasmere,2570,1981,60+
+grays-point,2232,3113,40 to 59
+great-mackerel-beach,2108,NA,NA
+green-valley,2168,12518,40 to 59
+greenacre,2190,24372,20 to 39
+greendale,2550,66,40 to 59
+greendale,2745,354,40 to 59
+greenfield-park,2176,5100,40 to 59
+greenwich,2065,5618,20 to 39
+greystanes,2145,22796,20 to 39
+grose-vale,2753,1270,40 to 59
+grose-wold,2753,633,40 to 59
+guildford,2161,22342,20 to 39
+guildford-west,2161,4919,20 to 39
+gymea,2227,7577,40 to 59
+gymea-bay,2227,6878,40 to 59
+haberfield,2045,6469,40 to 59
+hammondville,2170,3487,60+
+harrington-park,2567,10653,40 to 59
+harris-park,2150,5797,20 to 39
+hassall-grove,2761,4510,40 to 59
+haymarket,2000,7341,20 to 39
+heathcote,2233,5998,40 to 59
+hebersham,2770,5686,20 to 39
+heckenberg,2168,3082,20 to 39
+henley,2111,470,40 to 59
+hillsdale,2036,5494,20 to 39
+hinchinbrook,2168,11203,40 to 59
+hobartville,2753,2761,20 to 39
+holroyd,2142,1284,20 to 39
+holsworthy,2173,5481,20 to 39
+homebush,2140,6991,20 to 39
+homebush-west,2140,8607,20 to 39
+horningsea-park,2171,3733,40 to 59
+hornsby,2077,22173,20 to 39
+hornsby-heights,2077,6290,40 to 59
+horsley-park,2175,1861,40 to 59
+hoxton-park,2171,4354,20 to 39
+hunters-hill,2110,9525,40 to 59
+huntingwood,2148,NA,60+
+huntleys-cove,2111,745,60+
+huntleys-point,2111,138,40 to 59
+hurlstone-park,2193,4682,40 to 59
+hurstville,2220,29829,20 to 39
+hurstville-grove,2220,2678,40 to 59
+illawong,2234,7262,40 to 59
+ingleburn,2565,15046,20 to 39
+ingleside,2101,986,40 to 59
+jamisontown,2750,5480,20 to 39
+kangaroo-point,2224,549,40 to 59
+kareela,2232,3456,60+
+kearns,2558,2756,40 to 59
+kellyville,2155,27976,40 to 59
+kellyville-ridge,2155,10471,20 to 39
+kemps-creek,2178,2274,40 to 59
+kensington,2033,14985,20 to 39
+kenthurst,2156,5035,40 to 59
+kentlyn,2560,746,60+
+killara,2071,10573,40 to 59
+killarney-heights,2087,4477,40 to 59
+kings-langley,2147,9365,40 to 59
+kings-park,2148,3456,20 to 39
+kingsford,2032,15481,20 to 39
+kingsgrove,2208,12449,40 to 59
+kingswood,2340,1042,40 to 59
+kingswood,2550,6,40 to 59
+kingswood,2747,9297,20 to 39
+kirkham,2570,701,40 to 59
+kirrawee,2232,9286,60+
+kirribilli,2061,3826,20 to 39
+kogarah,2217,15126,20 to 39
+kogarah-bay,2217,2018,40 to 59
+kurmond,2757,859,40 to 59
+kurnell,2231,2271,40 to 59
+kurrajong,2758,3062,40 to 59
+kurrajong-hills,2758,663,40 to 59
+kyeemagh,2216,907,60+
+kyle-bay,2221,1041,40 to 59
+la-perouse,2036,407,40 to 59
+lakemba,2195,17031,20 to 39
+lalor-park,2147,7662,20 to 39
+lane-cove,2066,10817,20 to 39
+lane-cove-north,2066,11442,20 to 39
+lane-cove-west,2066,2625,40 to 59
+lansdowne,2163,14,20 to 39
+lansdowne,2430,596,60+
+lansvale,2166,2554,40 to 59
+laughtondale,2775,81,40 to 59
+lavender-bay,2060,956,20 to 39
+leets-vale,2775,57,60+
+leichhardt,2040,14625,20 to 39
+leonay,2750,2503,40 to 59
+leppington,2179,3501,20 to 39
+lethbridge-park,2770,4730,20 to 39
+leumeah,2560,9826,20 to 39
+lewisham,2049,3161,20 to 39
+liberty-grove,2138,2254,20 to 39
+lidcombe,2141,19620,20 to 39
+lilli-pilli,2229,1378,40 to 59
+lilli-pilli,2536,618,60+
+lilyfield,2040,7611,40 to 59
+lindfield,2070,9774,40 to 59
+linley-point,2066,352,40 to 59
+little-bay,2036,4474,20 to 39
+liverpool,2170,27107,20 to 39
+llandilo,2747,1640,40 to 59
+loftus,2232,4135,40 to 59
+londonderry,2753,3896,40 to 59
+long-point,2330,35,40 to 59
+long-point,2564,188,60+
+long-point,2800,NA,NA
+longueville,2066,2082,40 to 59
+lovett-bay,2105,141,40 to 59
+lower-portland,2756,586,40 to 59
+lucas-heights,2234,NA,60+
+luddenham,2745,1814,40 to 59
+lugarno,2210,5616,40 to 59
+lurnea,2170,9333,20 to 39
+macquarie-fields,2564,13728,20 to 39
+macquarie-links,2565,1373,40 to 59
+macquarie-park,2113,8153,20 to 39
+maianbar,2230,498,40 to 59
+malabar,2036,5423,40 to 59
+manly,2095,15854,20 to 39
+manly-vale,2093,6166,20 to 39
+maraylya,2765,1240,40 to 59
+marayong,2148,7727,20 to 39
+maroota,2756,634,40 to 59
+maroubra,2035,30681,20 to 39
+marrickville,2204,26607,20 to 39
+marsden-park,2765,1009,60+
+marsfield,2122,13293,20 to 39
+mascot,2020,14759,20 to 39
+matraville,2036,9812,40 to 59
+mays-hill,2145,762,20 to 39
+mcgraths-hill,2756,2550,40 to 59
+mcmahons-point,2060,2283,20 to 39
+meadowbank,2114,4406,20 to 39
+melrose-park,2114,1576,40 to 59
+menai,2234,10321,40 to 59
+menangle-park,2563,258,20 to 39
+merrylands,2160,29660,20 to 39
+merrylands-west,2160,6596,20 to 39
+middle-cove,2068,1327,40 to 59
+middle-dural,2158,1011,60+
+middleton-grange,2171,5181,20 to 39
+millers-point,2000,1494,40 to 59
+milperra,2214,3938,40 to 59
+milsons-passage,2083,16,60+
+milsons-point,2061,2166,20 to 39
+minchinbury,2770,5626,20 to 39
+minto,2566,12560,20 to 39
+minto-heights,2566,365,60+
+miranda,2228,15269,20 to 39
+mona-vale,2103,10668,60+
+monterey,2217,4539,40 to 59
+moore-park,2021,18,20 to 39
+moorebank,2170,9739,20 to 39
+morning-bay,2108,NA,NA
+mortdale,2223,10415,20 to 39
+mortlake,2137,1043,20 to 39
+mosman,2088,28470,40 to 59
+mount-annan,2567,11696,40 to 59
+mount-colah,2079,7093,40 to 59
+mount-druitt,2770,16730,20 to 39
+mount-lewis,2190,1194,20 to 39
+mount-lewis,2200,NA,NA
+mount-pritchard,2170,9960,20 to 39
+mount-vernon,2178,1188,40 to 59
+mulgoa,2745,1898,40 to 59
+mulgrave,2756,76,5 to 19
+narellan-vale,2567,7188,40 to 59
+naremburn,2065,5885,20 to 39
+narrabeen,2101,8194,60+
+narraweena,2099,6625,40 to 59
+narwee,2209,5622,20 to 39
+nelson,2550,8,5 to 19
+nelson,2765,444,60+
+neutral-bay,2089,10478,20 to 39
+newington,2127,5798,20 to 39
+newport,2106,9283,40 to 59
+newtown,2042,15027,20 to 39
+normanhurst,2076,5280,40 to 59
+north-balgowlah,2093,3653,40 to 59
+north-bondi,2026,9162,20 to 39
+north-curl-curl,2099,4108,40 to 59
+north-epping,2121,4538,40 to 59
+north-manly,2100,3074,40 to 59
+north-narrabeen,2101,5864,40 to 59
+north-parramatta,2151,13253,20 to 39
+north-richmond,2754,4983,40 to 59
+north-rocks,2151,7978,40 to 59
+north-ryde,2113,10867,40 to 59
+north-st-marys,2760,3903,20 to 39
+north-strathfield,2137,4748,20 to 39
+north-sydney,2055,NA,NA
+north-sydney,2060,7713,20 to 39
+north-turramurra,2074,4269,60+
+north-willoughby,2068,4173,40 to 59
+north-wahroonga,2076,1975,40 to 59
+northbridge,2063,6331,40 to 59
+northmead,2152,11216,20 to 39
+northwood,2066,987,40 to 59
+oakhurst,2761,6959,20 to 39
+oakville,2765,1969,40 to 59
+oatlands,2117,5661,40 to 59
+oatley,2223,10491,40 to 59
+old-guildford,2161,2667,20 to 39
+old-toongabbie,2146,3126,40 to 59
+oran-park,2570,4762,20 to 39
+orchard-hills,2748,1890,40 to 59
+oxford-falls,2100,143,60+
+oxley-park,2760,3100,20 to 39
+oyster-bay,2225,5479,40 to 59
+paddington,2021,12922,20 to 39
+padstow,2211,13313,40 to 59
+padstow-heights,2211,3537,60+
+pagewood,2035,3792,40 to 59
+palm-beach,2108,1586,60+
+panania,2213,12418,40 to 59
+parklea,2768,3477,20 to 39
+parramatta,2150,25793,20 to 39
+peakhurst,2210,10548,60+
+peakhurst-heights,2210,2345,60+
+pemulwuy,2145,5013,20 to 39
+pendle-hill,2145,7244,20 to 39
+pennant-hills,2120,7296,40 to 59
+penrith,2750,13300,20 to 39
+penshurst,2222,12800,20 to 39
+petersham,2049,8096,20 to 39
+phillip-bay,2036,702,40 to 59
+picnic-point,2213,6148,40 to 59
+pitt-town,2756,3036,40 to 59
+pitt-town-bottoms,2756,107,40 to 59
+pleasure-point,2172,517,40 to 59
+plumpton,2761,9193,20 to 39
+point-piper,2027,1424,60+
+port-botany,2036,NA,60+
+port-hacking,2229,NA,NA
+potts-hill,2143,876,20 to 39
+potts-point,2011,9421,20 to 39
+prairiewood,2176,3254,40 to 59
+prestons,2170,15308,40 to 59
+prospect,2148,4726,20 to 39
+punchbowl,2196,20242,20 to 39
+punchbowl,2460,NA,60+
+putney,2112,4105,40 to 59
+pymble,2073,11040,40 to 59
+pyrmont,2009,12832,20 to 39
+quakers-hill,2763,27077,20 to 39
+queens-park,2022,3065,40 to 59
+queenscliff,2096,3365,20 to 39
+raby,2566,5936,20 to 39
+ramsgate,2217,1113,40 to 59
+ramsgate-beach,2217,1661,60+
+randwick,2031,29994,20 to 39
+redfern,2016,13231,20 to 39
+regents-park,2143,4911,20 to 39
+regentville,2745,810,40 to 59
+revesby,2212,14189,20 to 39
+revesby-heights,2212,1662,40 to 59
+rhodes,2138,11920,20 to 39
+richmond,2753,5499,20 to 39
+richmond-lowlands,2753,32,40 to 59
+riverstone,2765,7238,20 to 39
+riverview,2066,3340,5 to 19
+riverview,2404,NA,NA
+riverwood,2210,12104,20 to 39
+rockdale,2216,15521,20 to 39
+rodd-point,2046,1405,40 to 59
+rookwood,2141,NA,60+
+rooty-hill,2766,14705,20 to 39
+ropes-crossing,2760,6172,20 to 39
+rose-bay,2029,10040,20 to 39
+rosebery,2018,10119,20 to 39
+rosehill,2142,3795,20 to 39
+roselands,2196,11589,20 to 39
+rosemeadow,2560,7835,20 to 39
+roseville,2069,10088,40 to 59
+roseville-chase,2069,1610,40 to 59
+rossmore,2557,2293,40 to 59
+rouse-hill,2155,7971,40 to 59
+rozelle,2039,8720,20 to 39
+ruse,2560,5585,20 to 39
+rushcutters-bay,2011,2545,20 to 39
+russell-lea,2046,4999,40 to 59
+rydalmere,2116,6657,40 to 59
+ryde,2112,26507,20 to 39
+sackville,2756,294,40 to 59
+sackville-north,2756,316,40 to 59
+sadleir,2168,3137,5 to 19
+sandringham,2219,1236,40 to 59
+sandy-point,2172,591,40 to 59
+sans-souci,2219,10296,40 to 59
+scheyville,2756,3,40 to 59
+schofields,2762,4977,20 to 39
+scotland-island,2105,582,40 to 59
+seaforth,2092,7133,40 to 59
+sefton,2162,5812,20 to 39
+seven-hills,2147,19308,20 to 39
+shalvey,2770,3462,20 to 39
+shanes-park,2747,404,40 to 59
+silverwater,2128,4159,20 to 39
+silverwater,2264,297,60+
+singletons-mill,2775,3,20 to 39
+smeaton-grange,2567,8,20 to 39
+smithfield,2164,11977,20 to 39
+south-hurstville,2221,5135,20 to 39
+south-maroota,2756,547,40 to 59
+south-penrith,2750,11785,20 to 39
+south-turramurra,2074,3083,40 to 59
+south-wentworthville,2145,6212,20 to 39
+south-windsor,2756,5887,20 to 39
+spring-farm,2570,4295,20 to 39
+st-clair,2330,6,40 to 59
+st-clair,2759,19894,20 to 39
+st-helens-park,2560,6609,20 to 39
+st-ives,2075,17295,40 to 59
+st-ives-chase,2075,3163,40 to 59
+st-johns-park,2176,6120,60+
+st-leonards,2065,5488,20 to 39
+st-marys,2760,12197,20 to 39
+st-peters,2044,3143,20 to 39
+stanhope-gardens,2768,9171,20 to 39
+stanmore,2048,7950,20 to 39
+strathfield,2135,25803,20 to 39
+strathfield-south,2136,3542,20 to 39
+summer-hill,2130,7315,20 to 39
+summer-hill,2287,7315,20 to 39
+surry-hills,2010,16408,20 to 39
+sutherland,2232,10818,20 to 39
+sydenham,2044,1149,20 to 39
+sylvania,2224,10489,60+
+sylvania-waters,2224,3159,40 to 59
+tamarama,2026,1627,20 to 39
+taren-point,2229,1732,60+
+telopea,2117,5426,20 to 39
+tempe,2044,3548,20 to 39
+tennyson,2754,385,60+
+tennyson-point,2111,1227,40 to 59
+terrey-hills,2084,3034,40 to 59
+the-ponds,2769,11715,20 to 39
+the-rocks,2000,773,20 to 39
+the-rocks,2795,70,60+
+the-slopes,2754,344,40 to 59
+thornleigh,2120,8461,40 to 59
+toongabbie,2146,14345,20 to 39
+tregear,2770,3885,20 to 39
+turramurra,2074,11926,40 to 59
+turrella,2205,2522,20 to 39
+ultimo,2007,8831,20 to 39
+varroville,2566,106,60+
+vaucluse,2030,9335,40 to 59
+villawood,2163,6026,20 to 39
+voyager-point,2172,1674,40 to 59
+wahroonga,2076,17367,40 to 59
+waitara,2077,5944,20 to 39
+wakeley,2176,4750,20 to 39
+wallacia,2745,1627,40 to 59
+wareemba,2046,1555,40 to 59
+warrawee,2074,2982,40 to 59
+warriewood,2102,7497,40 to 59
+warwick-farm,2170,5867,20 to 39
+waterfall,2233,483,40 to 59
+waterloo,2017,14619,20 to 39
+watsons-bay,2030,853,40 to 59
+wattle-grove,2173,8960,20 to 39
+waverley,2024,4349,20 to 39
+waverton,2060,3010,20 to 39
+wedderburn,2560,627,40 to 59
+wentworthville,2145,11325,20 to 39
+werrington,2747,4028,20 to 39
+werrington-county,2747,3642,20 to 39
+werrington-downs,2747,3240,20 to 39
+west-hoxton,2171,10015,40 to 59
+west-pennant-hills,2125,16367,40 to 59
+west-pymble,2073,5305,40 to 59
+west-ryde,2114,13397,20 to 39
+westleigh,2120,4463,40 to 59
+westmead,2145,16306,20 to 39
+wetherill-park,2164,6147,20 to 39
+whalan,2770,5962,20 to 39
+whale-beach,2107,NA,NA
+wheeler-heights,2097,NA,NA
+wilberforce,2756,3001,40 to 59
+wiley-park,2195,10127,20 to 39
+willmot,2770,2445,5 to 19
+willoughby,2068,6542,40 to 59
+willoughby-east,2068,1818,40 to 59
+windsor,2756,1900,40 to 59
+windsor-downs,2756,1183,40 to 59
+winston-hills,2153,11694,40 to 59
+wisemans-ferry,2775,229,40 to 59
+wolli-creek,2205,6387,20 to 39
+wollstonecraft,2065,8323,20 to 39
+woodbine,2560,2750,20 to 39
+woodcroft,2767,6448,20 to 39
+woodpark,2164,1519,20 to 39
+woollahra,2025,7414,20 to 39
+woolloomooloo,2011,4014,20 to 39
+woolooware,2230,3967,40 to 59
+woolwich,2110,814,60+
+woronora,2232,2193,40 to 59
+woronora-heights,2233,2870,40 to 59
+yagoona,2199,18014,20 to 39
+yarramundi,2753,828,40 to 59
+yarrawarrah,2233,2726,40 to 59
+yennora,2161,1616,60+
+yowie-bay,2228,3095,40 to 59
+zetland,2017,10071,20 to 39
